@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 16343",
+  "symbol": "SOLands",
+  "description": "SOLands 16343",
+  "image": "https://s.solands.xyz/2/16343.png",
+  "external_url": "https://solands.xyz/#/view/v2/6Bg9f4YcZPvvMa3BwZ7kT7XzcKLfodxebyD62yn55Chk",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16343.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 77,
+    "1": 6,
+    "2": 130,
+    "3": 72,
+    "4": 69,
+    "5": 118,
+    "6": 224,
+    "7": 197,
+    "8": 176,
+    "9": 125,
+    "10": 12,
+    "11": 159,
+    "12": 47,
+    "13": 207,
+    "14": 89,
+    "15": 80,
+    "16": 13,
+    "17": 179,
+    "18": 51,
+    "19": 75,
+    "20": 14,
+    "21": 151,
+    "22": 252,
+    "23": 219,
+    "24": 18,
+    "25": 15,
+    "26": 160,
+    "27": 54,
+    "28": 147,
+    "29": 229,
+    "30": 105,
+    "31": 71
+  },
+  "seedAsAddr": "6Bg9f4YcZPvvMa3BwZ7kT7XzcKLfodxebyD62yn55Chk",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Lyra"
+}

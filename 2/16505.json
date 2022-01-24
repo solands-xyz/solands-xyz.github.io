@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 16505",
+  "symbol": "SOLands",
+  "description": "SOLands 16505",
+  "image": "https://s.solands.xyz/2/16505.png",
+  "external_url": "https://solands.xyz/#/view/v2/78wUGdEvTH8G3G72mZBugKFRBXF5LUGaTvkLrK3nEPec",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16505.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 91,
+    "1": 46,
+    "2": 198,
+    "3": 222,
+    "4": 86,
+    "5": 170,
+    "6": 43,
+    "7": 200,
+    "8": 110,
+    "9": 218,
+    "10": 118,
+    "11": 225,
+    "12": 58,
+    "13": 121,
+    "14": 223,
+    "15": 46,
+    "16": 105,
+    "17": 230,
+    "18": 97,
+    "19": 60,
+    "20": 14,
+    "21": 28,
+    "22": 196,
+    "23": 5,
+    "24": 82,
+    "25": 163,
+    "26": 33,
+    "27": 248,
+    "28": 249,
+    "29": 67,
+    "30": 44,
+    "31": 181
+  },
+  "seedAsAddr": "78wUGdEvTH8G3G72mZBugKFRBXF5LUGaTvkLrK3nEPec",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Hydra, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

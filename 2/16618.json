@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 16618",
+  "symbol": "SOLands",
+  "description": "SOLands 16618",
+  "image": "https://s.solands.xyz/2/16618.png",
+  "external_url": "https://solands.xyz/#/view/v2/HehpM5y8K9ZpksU3yVZn8ytjedirfiyrPoXjy5MWqL1g",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16618.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 247,
+    "1": 99,
+    "2": 161,
+    "3": 197,
+    "4": 5,
+    "5": 243,
+    "6": 107,
+    "7": 81,
+    "8": 201,
+    "9": 37,
+    "10": 54,
+    "11": 47,
+    "12": 32,
+    "13": 222,
+    "14": 174,
+    "15": 22,
+    "16": 220,
+    "17": 120,
+    "18": 240,
+    "19": 49,
+    "20": 178,
+    "21": 208,
+    "22": 141,
+    "23": 42,
+    "24": 132,
+    "25": 187,
+    "26": 198,
+    "27": 199,
+    "28": 26,
+    "29": 62,
+    "30": 127,
+    "31": 163
+  },
+  "seedAsAddr": "HehpM5y8K9ZpksU3yVZn8ytjedirfiyrPoXjy5MWqL1g",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Grape"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Sulfur"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    }
+  ],
+  "planet": "Lyra"
+}

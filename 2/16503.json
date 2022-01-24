@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16503",
+  "symbol": "SOLands",
+  "description": "SOLands 16503",
+  "image": "https://s.solands.xyz/2/16503.png",
+  "external_url": "https://solands.xyz/#/view/v2/CNLMcRJwjC9v7cxzmea9UiGcUCKm5FgER2hfjFV7ndti",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16503.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 168,
+    "1": 231,
+    "2": 163,
+    "3": 107,
+    "4": 5,
+    "5": 139,
+    "6": 122,
+    "7": 202,
+    "8": 26,
+    "9": 176,
+    "10": 178,
+    "11": 252,
+    "12": 119,
+    "13": 190,
+    "14": 184,
+    "15": 69,
+    "16": 210,
+    "17": 239,
+    "18": 16,
+    "19": 108,
+    "20": 146,
+    "21": 145,
+    "22": 36,
+    "23": 254,
+    "24": 86,
+    "25": 107,
+    "26": 162,
+    "27": 145,
+    "28": 241,
+    "29": 46,
+    "30": 228,
+    "31": 47
+  },
+  "seedAsAddr": "CNLMcRJwjC9v7cxzmea9UiGcUCKm5FgER2hfjFV7ndti",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Candy"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Lyra"
+}

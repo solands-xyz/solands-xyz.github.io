@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 16385",
+  "symbol": "SOLands",
+  "description": "SOLands 16385",
+  "image": "https://s.solands.xyz/2/16385.png",
+  "external_url": "https://solands.xyz/#/view/v2/FHu6RV4ZmqBV9kAB1xKdDYkExfsYjfH5wYcJGPBvyPDB",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16385.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 212,
+    "1": 87,
+    "2": 207,
+    "3": 236,
+    "4": 179,
+    "5": 30,
+    "6": 145,
+    "7": 37,
+    "8": 43,
+    "9": 13,
+    "10": 214,
+    "11": 109,
+    "12": 245,
+    "13": 172,
+    "14": 95,
+    "15": 171,
+    "16": 227,
+    "17": 254,
+    "18": 199,
+    "19": 185,
+    "20": 103,
+    "21": 13,
+    "22": 135,
+    "23": 210,
+    "24": 251,
+    "25": 74,
+    "26": 23,
+    "27": 90,
+    "28": 227,
+    "29": 73,
+    "30": 123,
+    "31": 42
+  },
+  "seedAsAddr": "FHu6RV4ZmqBV9kAB1xKdDYkExfsYjfH5wYcJGPBvyPDB",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late LSD"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 1167",
+  "symbol": "SOLands",
+  "description": "SOLands 1167",
+  "image": "https://s.solands.xyz/2/1167.png",
+  "external_url": "https://solands.xyz/#/view/v2/FTvG78cdQBRgatFMeCQ5aHuBUgCwQPufiq6tcsAeEdA1",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1167.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 214,
+    "1": 232,
+    "2": 240,
+    "3": 149,
+    "4": 110,
+    "5": 18,
+    "6": 13,
+    "7": 153,
+    "8": 70,
+    "9": 178,
+    "10": 181,
+    "11": 226,
+    "12": 166,
+    "13": 120,
+    "14": 27,
+    "15": 239,
+    "16": 1,
+    "17": 113,
+    "18": 193,
+    "19": 42,
+    "20": 66,
+    "21": 47,
+    "22": 169,
+    "23": 178,
+    "24": 43,
+    "25": 45,
+    "26": 182,
+    "27": 176,
+    "28": 210,
+    "29": 109,
+    "30": 186,
+    "31": 18
+  },
+  "seedAsAddr": "FTvG78cdQBRgatFMeCQ5aHuBUgCwQPufiq6tcsAeEdA1",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Phoenix"
+}

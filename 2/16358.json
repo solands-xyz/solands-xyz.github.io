@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16358",
+  "symbol": "SOLands",
+  "description": "SOLands 16358",
+  "image": "https://s.solands.xyz/2/16358.png",
+  "external_url": "https://solands.xyz/#/view/v2/8q9FRDTGNazBQHpFkgJ3ZaxDLZhha3ETyQopkLRX2ZGy",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16358.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 116,
+    "1": 87,
+    "2": 3,
+    "3": 150,
+    "4": 147,
+    "5": 213,
+    "6": 75,
+    "7": 106,
+    "8": 32,
+    "9": 191,
+    "10": 187,
+    "11": 216,
+    "12": 138,
+    "13": 41,
+    "14": 14,
+    "15": 88,
+    "16": 132,
+    "17": 139,
+    "18": 138,
+    "19": 69,
+    "20": 137,
+    "21": 145,
+    "22": 248,
+    "23": 174,
+    "24": 253,
+    "25": 18,
+    "26": 88,
+    "27": 72,
+    "28": 1,
+    "29": 21,
+    "30": 34,
+    "31": 102
+  },
+  "seedAsAddr": "8q9FRDTGNazBQHpFkgJ3ZaxDLZhha3ETyQopkLRX2ZGy",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Crater"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 15",
+  "symbol": "SOLands",
+  "description": "SOLands 15",
+  "image": "https://s.solands.xyz/2/15.png",
+  "external_url": "https://solands.xyz/#/view/v2/87CUwqUkjCmfddrGFt9t39PQggmoRyUsHX2eXzNXsvy2",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/15.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 105,
+    "1": 152,
+    "2": 70,
+    "3": 159,
+    "4": 139,
+    "5": 61,
+    "6": 172,
+    "7": 45,
+    "8": 63,
+    "9": 15,
+    "10": 105,
+    "11": 121,
+    "12": 14,
+    "13": 193,
+    "14": 253,
+    "15": 238,
+    "16": 60,
+    "17": 118,
+    "18": 105,
+    "19": 217,
+    "20": 246,
+    "21": 79,
+    "22": 193,
+    "23": 89,
+    "24": 250,
+    "25": 153,
+    "26": 223,
+    "27": 12,
+    "28": 1,
+    "29": 16,
+    "30": 69,
+    "31": 53
+  },
+  "seedAsAddr": "87CUwqUkjCmfddrGFt9t39PQggmoRyUsHX2eXzNXsvy2",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Crater"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Alone"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Mist"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Corona Borealis"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 951",
+  "symbol": "SOLands",
+  "description": "SOLands 951",
+  "image": "https://s.solands.xyz/2/951.png",
+  "external_url": "https://solands.xyz/#/view/v2/5zZqMdBc2BREyUtkVuiu91UX99aASxwJUt7bkCpTDUAX",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/951.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 74,
+    "1": 45,
+    "2": 250,
+    "3": 161,
+    "4": 94,
+    "5": 166,
+    "6": 167,
+    "7": 162,
+    "8": 156,
+    "9": 22,
+    "10": 71,
+    "11": 185,
+    "12": 175,
+    "13": 39,
+    "14": 224,
+    "15": 212,
+    "16": 60,
+    "17": 240,
+    "18": 89,
+    "19": 51,
+    "20": 4,
+    "21": 153,
+    "22": 126,
+    "23": 235,
+    "24": 164,
+    "25": 211,
+    "26": 58,
+    "27": 129,
+    "28": 166,
+    "29": 230,
+    "30": 5,
+    "31": 20
+  },
+  "seedAsAddr": "5zZqMdBc2BREyUtkVuiu91UX99aASxwJUt7bkCpTDUAX",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Aerial"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    }
+  ],
+  "planet": "Phoenix"
+}

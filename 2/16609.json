@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16609",
+  "symbol": "SOLands",
+  "description": "SOLands 16609",
+  "image": "https://s.solands.xyz/2/16609.png",
+  "external_url": "https://solands.xyz/#/view/v2/ATBGCo8wNRU66Kc5gBiF6RGv1CeQ5NhuXcqWVTMBpvVU",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16609.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 140,
+    "1": 109,
+    "2": 227,
+    "3": 5,
+    "4": 36,
+    "5": 12,
+    "6": 151,
+    "7": 205,
+    "8": 246,
+    "9": 222,
+    "10": 70,
+    "11": 162,
+    "12": 151,
+    "13": 208,
+    "14": 216,
+    "15": 233,
+    "16": 17,
+    "17": 97,
+    "18": 251,
+    "19": 27,
+    "20": 96,
+    "21": 148,
+    "22": 104,
+    "23": 187,
+    "24": 227,
+    "25": 247,
+    "26": 223,
+    "27": 213,
+    "28": 28,
+    "29": 39,
+    "30": 224,
+    "31": 223
+  },
+  "seedAsAddr": "ATBGCo8wNRU66Kc5gBiF6RGv1CeQ5NhuXcqWVTMBpvVU",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    }
+  ],
+  "planet": "Lyra"
+}

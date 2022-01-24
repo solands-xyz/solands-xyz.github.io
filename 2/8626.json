@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 8626",
+  "symbol": "SOLands",
+  "description": "SOLands 8626",
+  "image": "https://s.solands.xyz/2/8626.png",
+  "external_url": "https://solands.xyz/#/view/v2/E5nji6ixF9oFGFZbWe7akqFxDbhPWQ3mYfdXXkfbr5Lz",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8626.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 194,
+    "1": 97,
+    "2": 247,
+    "3": 176,
+    "4": 187,
+    "5": 250,
+    "6": 82,
+    "7": 119,
+    "8": 141,
+    "9": 85,
+    "10": 182,
+    "11": 191,
+    "12": 155,
+    "13": 133,
+    "14": 49,
+    "15": 118,
+    "16": 86,
+    "17": 134,
+    "18": 120,
+    "19": 38,
+    "20": 228,
+    "21": 31,
+    "22": 128,
+    "23": 85,
+    "24": 150,
+    "25": 129,
+    "26": 198,
+    "27": 2,
+    "28": 51,
+    "29": 191,
+    "30": 234,
+    "31": 95
+  },
+  "seedAsAddr": "E5nji6ixF9oFGFZbWe7akqFxDbhPWQ3mYfdXXkfbr5Lz",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Hydra"
+}

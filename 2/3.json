@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 3",
+  "symbol": "SOLands",
+  "description": "SOLands 3",
+  "image": "https://s.solands.xyz/2/3.png",
+  "external_url": "https://solands.xyz/#/view/v2/DERh3WmCbZGtqyXRjL8XsqiaP9G4na1VBG6ZPP7xCEyX",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 181,
+    "1": 188,
+    "2": 182,
+    "3": 14,
+    "4": 166,
+    "5": 13,
+    "6": 171,
+    "7": 59,
+    "8": 246,
+    "9": 131,
+    "10": 235,
+    "11": 248,
+    "12": 133,
+    "13": 160,
+    "14": 97,
+    "15": 17,
+    "16": 190,
+    "17": 155,
+    "18": 109,
+    "19": 51,
+    "20": 205,
+    "21": 2,
+    "22": 82,
+    "23": 116,
+    "24": 234,
+    "25": 66,
+    "26": 78,
+    "27": 43,
+    "28": 212,
+    "29": 174,
+    "30": 6,
+    "31": 10
+  },
+  "seedAsAddr": "DERh3WmCbZGtqyXRjL8XsqiaP9G4na1VBG6ZPP7xCEyX",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Ash"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Aerial"
+    }
+  ],
+  "planet": "Corona Borealis"
+}

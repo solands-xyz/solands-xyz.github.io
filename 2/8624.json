@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 8624",
+  "symbol": "SOLands",
+  "description": "SOLands 8624",
+  "image": "https://s.solands.xyz/2/8624.png",
+  "external_url": "https://solands.xyz/#/view/v2/DQdC7ZKHcGPFnpGJmBCaEniZdjDvJQHoDrWEdcTxYs3q",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8624.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 184,
+    "1": 89,
+    "2": 134,
+    "3": 17,
+    "4": 93,
+    "5": 233,
+    "6": 71,
+    "7": 217,
+    "8": 49,
+    "9": 250,
+    "10": 192,
+    "11": 184,
+    "12": 103,
+    "13": 40,
+    "14": 197,
+    "15": 45,
+    "16": 177,
+    "17": 252,
+    "18": 43,
+    "19": 250,
+    "20": 127,
+    "21": 70,
+    "22": 231,
+    "23": 49,
+    "24": 26,
+    "25": 147,
+    "26": 159,
+    "27": 85,
+    "28": 114,
+    "29": 33,
+    "30": 20,
+    "31": 244
+  },
+  "seedAsAddr": "DQdC7ZKHcGPFnpGJmBCaEniZdjDvJQHoDrWEdcTxYs3q",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Watermelon"
+    }
+  ],
+  "planet": "Hydra"
+}

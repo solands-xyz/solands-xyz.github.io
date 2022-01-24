@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16369",
+  "symbol": "SOLands",
+  "description": "SOLands 16369",
+  "image": "https://s.solands.xyz/2/16369.png",
+  "external_url": "https://solands.xyz/#/view/v2/9iDEpTB7q4HvHAoZRgCqXPpq24KU8o5eVFrHQVzG318r",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16369.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 129,
+    "1": 108,
+    "2": 37,
+    "3": 123,
+    "4": 15,
+    "5": 51,
+    "6": 113,
+    "7": 190,
+    "8": 216,
+    "9": 122,
+    "10": 224,
+    "11": 170,
+    "12": 200,
+    "13": 199,
+    "14": 174,
+    "15": 214,
+    "16": 166,
+    "17": 76,
+    "18": 92,
+    "19": 246,
+    "20": 226,
+    "21": 5,
+    "22": 226,
+    "23": 2,
+    "24": 164,
+    "25": 76,
+    "26": 147,
+    "27": 63,
+    "28": 129,
+    "29": 91,
+    "30": 29,
+    "31": 39
+  },
+  "seedAsAddr": "9iDEpTB7q4HvHAoZRgCqXPpq24KU8o5eVFrHQVzG318r",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Heat"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

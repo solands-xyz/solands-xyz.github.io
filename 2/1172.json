@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 1172",
+  "symbol": "SOLands",
+  "description": "SOLands 1172",
+  "image": "https://s.solands.xyz/2/1172.png",
+  "external_url": "https://solands.xyz/#/view/v2/9RGC2M1miuYuLKXe1XGQ9WurEcypgSPnpehxDKMBJ55s",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1172.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 125,
+    "1": 20,
+    "2": 156,
+    "3": 59,
+    "4": 55,
+    "5": 130,
+    "6": 13,
+    "7": 186,
+    "8": 5,
+    "9": 75,
+    "10": 58,
+    "11": 204,
+    "12": 16,
+    "13": 73,
+    "14": 130,
+    "15": 229,
+    "16": 227,
+    "17": 221,
+    "18": 9,
+    "19": 218,
+    "20": 2,
+    "21": 21,
+    "22": 79,
+    "23": 179,
+    "24": 30,
+    "25": 110,
+    "26": 240,
+    "27": 245,
+    "28": 115,
+    "29": 141,
+    "30": 118,
+    "31": 242
+  },
+  "seedAsAddr": "9RGC2M1miuYuLKXe1XGQ9WurEcypgSPnpehxDKMBJ55s",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late LSD"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Mist"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Phoenix"
+}

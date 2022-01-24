@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 18",
+  "symbol": "SOLands",
+  "description": "SOLands 18",
+  "image": "https://s.solands.xyz/2/18.png",
+  "external_url": "https://solands.xyz/#/view/v2/D7qQvkCkZbzB58VaGJPFDMSckto7kmJAhcANiujaSGLQ",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/18.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 180,
+    "1": 12,
+    "2": 119,
+    "3": 219,
+    "4": 90,
+    "5": 182,
+    "6": 179,
+    "7": 120,
+    "8": 100,
+    "9": 146,
+    "10": 233,
+    "11": 211,
+    "12": 130,
+    "13": 110,
+    "14": 79,
+    "15": 106,
+    "16": 168,
+    "17": 61,
+    "18": 174,
+    "19": 28,
+    "20": 115,
+    "21": 154,
+    "22": 156,
+    "23": 41,
+    "24": 83,
+    "25": 141,
+    "26": 80,
+    "27": 204,
+    "28": 191,
+    "29": 224,
+    "30": 65,
+    "31": 57
+  },
+  "seedAsAddr": "D7qQvkCkZbzB58VaGJPFDMSckto7kmJAhcANiujaSGLQ",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Aqua"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra, Lyra"
+    }
+  ],
+  "planet": "Corona Borealis"
+}

@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 16584",
+  "symbol": "SOLands",
+  "description": "SOLands 16584",
+  "image": "https://s.solands.xyz/2/16584.png",
+  "external_url": "https://solands.xyz/#/view/v2/7n6acZttbaVZ4Ay7oxQpBN8qpaYjrtZ3BsauMwTJNG4o",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16584.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 100,
+    "1": 179,
+    "2": 145,
+    "3": 23,
+    "4": 225,
+    "5": 214,
+    "6": 196,
+    "7": 182,
+    "8": 215,
+    "9": 13,
+    "10": 117,
+    "11": 87,
+    "12": 62,
+    "13": 224,
+    "14": 217,
+    "15": 43,
+    "16": 240,
+    "17": 12,
+    "18": 225,
+    "19": 74,
+    "20": 165,
+    "21": 128,
+    "22": 211,
+    "23": 8,
+    "24": 217,
+    "25": 191,
+    "26": 234,
+    "27": 108,
+    "28": 120,
+    "29": 169,
+    "30": 5,
+    "31": 16
+  },
+  "seedAsAddr": "7n6acZttbaVZ4Ay7oxQpBN8qpaYjrtZ3BsauMwTJNG4o",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Cosmic"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Aerial"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

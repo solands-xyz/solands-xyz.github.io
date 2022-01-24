@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8695",
+  "symbol": "SOLands",
+  "description": "SOLands 8695",
+  "image": "https://s.solands.xyz/2/8695.png",
+  "external_url": "https://solands.xyz/#/view/v2/3oNoCGqncoqgznnRDpX7R7RGSwy9tXywRNDnyvHMgzkQ",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8695.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 41,
+    "1": 152,
+    "2": 188,
+    "3": 132,
+    "4": 180,
+    "5": 15,
+    "6": 168,
+    "7": 247,
+    "8": 204,
+    "9": 21,
+    "10": 114,
+    "11": 12,
+    "12": 64,
+    "13": 170,
+    "14": 222,
+    "15": 243,
+    "16": 215,
+    "17": 34,
+    "18": 48,
+    "19": 26,
+    "20": 200,
+    "21": 212,
+    "22": 118,
+    "23": 135,
+    "24": 114,
+    "25": 5,
+    "26": 41,
+    "27": 169,
+    "28": 133,
+    "29": 154,
+    "30": 194,
+    "31": 113
+  },
+  "seedAsAddr": "3oNoCGqncoqgznnRDpX7R7RGSwy9tXywRNDnyvHMgzkQ",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Candy"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    }
+  ],
+  "planet": "Hydra"
+}

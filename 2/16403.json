@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 16403",
+  "symbol": "SOLands",
+  "description": "SOLands 16403",
+  "image": "https://s.solands.xyz/2/16403.png",
+  "external_url": "https://solands.xyz/#/view/v2/EP3QRoQeNt7HnvWvYAbfVQLJ4R48tQ7fSM5tgeiusxmg",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16403.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 198,
+    "1": 205,
+    "2": 109,
+    "3": 12,
+    "4": 56,
+    "5": 9,
+    "6": 176,
+    "7": 137,
+    "8": 78,
+    "9": 110,
+    "10": 74,
+    "11": 203,
+    "12": 137,
+    "13": 15,
+    "14": 88,
+    "15": 143,
+    "16": 210,
+    "17": 44,
+    "18": 40,
+    "19": 61,
+    "20": 252,
+    "21": 159,
+    "22": 159,
+    "23": 177,
+    "24": 55,
+    "25": 87,
+    "26": 182,
+    "27": 91,
+    "28": 7,
+    "29": 142,
+    "30": 10,
+    "31": 75
+  },
+  "seedAsAddr": "EP3QRoQeNt7HnvWvYAbfVQLJ4R48tQ7fSM5tgeiusxmg",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Candy"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Surface"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8576",
+  "symbol": "SOLands",
+  "description": "SOLands 8576",
+  "image": "https://s.solands.xyz/2/8576.png",
+  "external_url": "https://solands.xyz/#/view/v2/ESQmHB5bT3gXcm6eA8mR5GostjXuwWSBK1HspXNY4nA4",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8576.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 199,
+    "1": 170,
+    "2": 81,
+    "3": 213,
+    "4": 125,
+    "5": 12,
+    "6": 112,
+    "7": 231,
+    "8": 50,
+    "9": 108,
+    "10": 150,
+    "11": 184,
+    "12": 196,
+    "13": 35,
+    "14": 132,
+    "15": 88,
+    "16": 200,
+    "17": 116,
+    "18": 80,
+    "19": 184,
+    "20": 9,
+    "21": 226,
+    "22": 84,
+    "23": 21,
+    "24": 255,
+    "25": 103,
+    "26": 12,
+    "27": 2,
+    "28": 149,
+    "29": 222,
+    "30": 197,
+    "31": 233
+  },
+  "seedAsAddr": "ESQmHB5bT3gXcm6eA8mR5GostjXuwWSBK1HspXNY4nA4",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Cherry"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Monochrome"
+    }
+  ],
+  "planet": "Hydra"
+}

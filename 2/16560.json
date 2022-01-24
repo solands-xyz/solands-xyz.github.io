@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16560",
+  "symbol": "SOLands",
+  "description": "SOLands 16560",
+  "image": "https://s.solands.xyz/2/16560.png",
+  "external_url": "https://solands.xyz/#/view/v2/CDoxCdSfATxgJ7NMwozTRrajsYdouoyd27bs4y29MrNX",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16560.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 166,
+    "1": 184,
+    "2": 157,
+    "3": 72,
+    "4": 203,
+    "5": 186,
+    "6": 236,
+    "7": 146,
+    "8": 212,
+    "9": 235,
+    "10": 226,
+    "11": 193,
+    "12": 134,
+    "13": 240,
+    "14": 215,
+    "15": 48,
+    "16": 225,
+    "17": 255,
+    "18": 14,
+    "19": 174,
+    "20": 42,
+    "21": 164,
+    "22": 215,
+    "23": 245,
+    "24": 13,
+    "25": 176,
+    "26": 18,
+    "27": 182,
+    "28": 12,
+    "29": 114,
+    "30": 117,
+    "31": 132
+  },
+  "seedAsAddr": "CDoxCdSfATxgJ7NMwozTRrajsYdouoyd27bs4y29MrNX",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Grape"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 16426",
+  "symbol": "SOLands",
+  "description": "SOLands 16426",
+  "image": "https://s.solands.xyz/2/16426.png",
+  "external_url": "https://solands.xyz/#/view/v2/5JCphJnKEp7NFL3YT3qgqPYkHffMCTYBYm2LagN1Wvob",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16426.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 63,
+    "1": 214,
+    "2": 253,
+    "3": 47,
+    "4": 143,
+    "5": 65,
+    "6": 99,
+    "7": 126,
+    "8": 110,
+    "9": 99,
+    "10": 217,
+    "11": 50,
+    "12": 216,
+    "13": 117,
+    "14": 191,
+    "15": 242,
+    "16": 251,
+    "17": 230,
+    "18": 128,
+    "19": 3,
+    "20": 143,
+    "21": 244,
+    "22": 138,
+    "23": 168,
+    "24": 42,
+    "25": 75,
+    "26": 247,
+    "27": 100,
+    "28": 129,
+    "29": 5,
+    "30": 194,
+    "31": 234
+  },
+  "seedAsAddr": "5JCphJnKEp7NFL3YT3qgqPYkHffMCTYBYm2LagN1Wvob",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Acrylic"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

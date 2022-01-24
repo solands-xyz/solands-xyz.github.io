@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 1173",
+  "symbol": "SOLands",
+  "description": "SOLands 1173",
+  "image": "https://s.solands.xyz/2/1173.png",
+  "external_url": "https://solands.xyz/#/view/v2/36jVg9SPYoMBkzhvXayyKv6nUBrtwS6WxHhLDRV5r1Yj",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1173.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 31,
+    "1": 47,
+    "2": 83,
+    "3": 147,
+    "4": 35,
+    "5": 190,
+    "6": 94,
+    "7": 181,
+    "8": 114,
+    "9": 185,
+    "10": 246,
+    "11": 188,
+    "12": 52,
+    "13": 153,
+    "14": 224,
+    "15": 65,
+    "16": 205,
+    "17": 195,
+    "18": 142,
+    "19": 121,
+    "20": 33,
+    "21": 5,
+    "22": 241,
+    "23": 137,
+    "24": 57,
+    "25": 229,
+    "26": 96,
+    "27": 128,
+    "28": 76,
+    "29": 208,
+    "30": 25,
+    "31": 152
+  },
+  "seedAsAddr": "36jVg9SPYoMBkzhvXayyKv6nUBrtwS6WxHhLDRV5r1Yj",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Cherry"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Phoenix"
+}

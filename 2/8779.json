@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 8779",
+  "symbol": "SOLands",
+  "description": "SOLands 8779",
+  "image": "https://s.solands.xyz/2/8779.png",
+  "external_url": "https://solands.xyz/#/view/v2/8Bzt3fkUHMzMFMugGpysTRCcoiy7pvKD5sWGkUeUZXZw",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8779.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 106,
+    "1": 211,
+    "2": 15,
+    "3": 211,
+    "4": 58,
+    "5": 210,
+    "6": 227,
+    "7": 154,
+    "8": 209,
+    "9": 28,
+    "10": 196,
+    "11": 153,
+    "12": 142,
+    "13": 108,
+    "14": 183,
+    "15": 172,
+    "16": 210,
+    "17": 117,
+    "18": 160,
+    "19": 233,
+    "20": 144,
+    "21": 110,
+    "22": 76,
+    "23": 217,
+    "24": 4,
+    "25": 122,
+    "26": 22,
+    "27": 37,
+    "28": 167,
+    "29": 253,
+    "30": 44,
+    "31": 190
+  },
+  "seedAsAddr": "8Bzt3fkUHMzMFMugGpysTRCcoiy7pvKD5sWGkUeUZXZw",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Diagonal Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Candy"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Hydra"
+}

@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 874",
+  "symbol": "SOLands",
+  "description": "SOLands 874",
+  "image": "https://s.solands.xyz/2/874.png",
+  "external_url": "https://solands.xyz/#/view/v2/CpHUCws4BJdNnxn3zZZYfxeLP9HtiGudbBA55dNpmdbZ",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/874.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 175,
+    "1": 141,
+    "2": 121,
+    "3": 209,
+    "4": 100,
+    "5": 217,
+    "6": 87,
+    "7": 106,
+    "8": 212,
+    "9": 11,
+    "10": 46,
+    "11": 203,
+    "12": 80,
+    "13": 157,
+    "14": 246,
+    "15": 38,
+    "16": 112,
+    "17": 89,
+    "18": 194,
+    "19": 5,
+    "20": 16,
+    "21": 84,
+    "22": 30,
+    "23": 43,
+    "24": 208,
+    "25": 252,
+    "26": 180,
+    "27": 212,
+    "28": 10,
+    "29": 144,
+    "30": 156,
+    "31": 212
+  },
+  "seedAsAddr": "CpHUCws4BJdNnxn3zZZYfxeLP9HtiGudbBA55dNpmdbZ",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Alone"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Phoenix"
+}

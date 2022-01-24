@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8799",
+  "symbol": "SOLands",
+  "description": "SOLands 8799",
+  "image": "https://s.solands.xyz/2/8799.png",
+  "external_url": "https://solands.xyz/#/view/v2/BJJCFfzQYL8aq9FzX1En3SjH7GmQqDTSqeA1XRtFUeJC",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8799.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 153,
+    "1": 3,
+    "2": 47,
+    "3": 49,
+    "4": 218,
+    "5": 246,
+    "6": 11,
+    "7": 48,
+    "8": 238,
+    "9": 48,
+    "10": 196,
+    "11": 144,
+    "12": 36,
+    "13": 81,
+    "14": 127,
+    "15": 131,
+    "16": 180,
+    "17": 139,
+    "18": 103,
+    "19": 79,
+    "20": 143,
+    "21": 187,
+    "22": 202,
+    "23": 140,
+    "24": 44,
+    "25": 121,
+    "26": 46,
+    "27": 219,
+    "28": 83,
+    "29": 110,
+    "30": 81,
+    "31": 17
+  },
+  "seedAsAddr": "BJJCFfzQYL8aq9FzX1En3SjH7GmQqDTSqeA1XRtFUeJC",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Dashed"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Watermelon"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Sulfur"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Lyra"
+    }
+  ],
+  "planet": "Hydra"
+}

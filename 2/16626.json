@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 16626",
+  "symbol": "SOLands",
+  "description": "SOLands 16626",
+  "image": "https://s.solands.xyz/2/16626.png",
+  "external_url": "https://solands.xyz/#/view/v2/3wN7EQ1sgVhGo86yBRHSqEifqtbxxunDdhBvcp1J9kW5",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16626.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 43,
+    "1": 164,
+    "2": 154,
+    "3": 146,
+    "4": 7,
+    "5": 62,
+    "6": 156,
+    "7": 202,
+    "8": 109,
+    "9": 45,
+    "10": 159,
+    "11": 64,
+    "12": 149,
+    "13": 170,
+    "14": 0,
+    "15": 181,
+    "16": 5,
+    "17": 112,
+    "18": 90,
+    "19": 94,
+    "20": 109,
+    "21": 246,
+    "22": 152,
+    "23": 114,
+    "24": 250,
+    "25": 93,
+    "26": 123,
+    "27": 173,
+    "28": 212,
+    "29": 180,
+    "30": 153,
+    "31": 50
+  },
+  "seedAsAddr": "3wN7EQ1sgVhGo86yBRHSqEifqtbxxunDdhBvcp1J9kW5",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Galactic Proximal Warp"
+    }
+  ],
+  "planet": "Lyra"
+}

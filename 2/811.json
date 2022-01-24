@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 811",
+  "symbol": "SOLands",
+  "description": "SOLands 811",
+  "image": "https://s.solands.xyz/2/811.png",
+  "external_url": "https://solands.xyz/#/view/v2/CDsDSU2cvr6GkWpmHMFFbjZwB4uhN1gjF9LT7R2qVZZo",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/811.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 166,
+    "1": 188,
+    "2": 77,
+    "3": 183,
+    "4": 61,
+    "5": 201,
+    "6": 120,
+    "7": 4,
+    "8": 101,
+    "9": 84,
+    "10": 42,
+    "11": 65,
+    "12": 220,
+    "13": 32,
+    "14": 35,
+    "15": 166,
+    "16": 129,
+    "17": 167,
+    "18": 43,
+    "19": 131,
+    "20": 52,
+    "21": 166,
+    "22": 250,
+    "23": 57,
+    "24": 58,
+    "25": 124,
+    "26": 120,
+    "27": 174,
+    "28": 103,
+    "29": 91,
+    "30": 125,
+    "31": 238
+  },
+  "seedAsAddr": "CDsDSU2cvr6GkWpmHMFFbjZwB4uhN1gjF9LT7R2qVZZo",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    }
+  ],
+  "planet": "Phoenix"
+}

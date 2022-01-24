@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 8826",
+  "symbol": "SOLands",
+  "description": "SOLands 8826",
+  "image": "https://s.solands.xyz/2/8826.png",
+  "external_url": "https://solands.xyz/#/view/v2/4FFxWhw7vsFTDkbwVV12Wdn11iUw68DJK4KeGx5PL1Pj",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8826.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 48,
+    "1": 58,
+    "2": 26,
+    "3": 170,
+    "4": 61,
+    "5": 162,
+    "6": 253,
+    "7": 204,
+    "8": 170,
+    "9": 136,
+    "10": 68,
+    "11": 180,
+    "12": 110,
+    "13": 15,
+    "14": 79,
+    "15": 93,
+    "16": 243,
+    "17": 137,
+    "18": 171,
+    "19": 99,
+    "20": 173,
+    "21": 122,
+    "22": 219,
+    "23": 122,
+    "24": 90,
+    "25": 156,
+    "26": 30,
+    "27": 160,
+    "28": 217,
+    "29": 157,
+    "30": 230,
+    "31": 62
+  },
+  "seedAsAddr": "4FFxWhw7vsFTDkbwVV12Wdn11iUw68DJK4KeGx5PL1Pj",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Cosmic"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    }
+  ],
+  "planet": "Hydra"
+}

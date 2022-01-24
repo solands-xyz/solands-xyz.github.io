@@ -1,0 +1,109 @@
+{
+  "name": "SOLands 1082",
+  "symbol": "SOLands",
+  "description": "SOLands 1082",
+  "image": "https://s.solands.xyz/2/1082.png",
+  "external_url": "https://solands.xyz/#/view/v2/CY6fWVbb33jJqM9ZpQHLqbamab3g5H2Drf5FFqj1vNuf",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1082.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 171,
+    "1": 103,
+    "2": 247,
+    "3": 43,
+    "4": 139,
+    "5": 163,
+    "6": 103,
+    "7": 49,
+    "8": 254,
+    "9": 124,
+    "10": 32,
+    "11": 71,
+    "12": 4,
+    "13": 162,
+    "14": 164,
+    "15": 160,
+    "16": 197,
+    "17": 135,
+    "18": 229,
+    "19": 82,
+    "20": 82,
+    "21": 46,
+    "22": 171,
+    "23": 69,
+    "24": 214,
+    "25": 94,
+    "26": 50,
+    "27": 48,
+    "28": 1,
+    "29": 97,
+    "30": 75,
+    "31": 106
+  },
+  "seedAsAddr": "CY6fWVbb33jJqM9ZpQHLqbamab3g5H2Drf5FFqj1vNuf",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Crater"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Cherry"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Purple Haze"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Phoenix"
+}

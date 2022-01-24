@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 8693",
+  "symbol": "SOLands",
+  "description": "SOLands 8693",
+  "image": "https://s.solands.xyz/2/8693.png",
+  "external_url": "https://solands.xyz/#/view/v2/GHLv4QDk23yb9T76Urn3vhNHCU2SCMoeuF6u2zKp1XaS",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8693.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 227,
+    "1": 15,
+    "2": 29,
+    "3": 85,
+    "4": 47,
+    "5": 8,
+    "6": 60,
+    "7": 159,
+    "8": 162,
+    "9": 27,
+    "10": 97,
+    "11": 157,
+    "12": 64,
+    "13": 221,
+    "14": 214,
+    "15": 93,
+    "16": 214,
+    "17": 146,
+    "18": 226,
+    "19": 196,
+    "20": 15,
+    "21": 58,
+    "22": 83,
+    "23": 140,
+    "24": 160,
+    "25": 227,
+    "26": 179,
+    "27": 192,
+    "28": 193,
+    "29": 200,
+    "30": 9,
+    "31": 187
+  },
+  "seedAsAddr": "GHLv4QDk23yb9T76Urn3vhNHCU2SCMoeuF6u2zKp1XaS",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Candy"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Light Fog"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Surface"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    }
+  ],
+  "planet": "Hydra"
+}

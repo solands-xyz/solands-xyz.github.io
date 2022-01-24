@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 807",
+  "symbol": "SOLands",
+  "description": "SOLands 807",
+  "image": "https://s.solands.xyz/2/807.png",
+  "external_url": "https://solands.xyz/#/view/v2/ARPFaUY7U1uNHqccgQDTJZPBE5EBx5vnF1wW6Rp1wTGu",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/807.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 139,
+    "1": 248,
+    "2": 72,
+    "3": 10,
+    "4": 195,
+    "5": 85,
+    "6": 92,
+    "7": 1,
+    "8": 176,
+    "9": 0,
+    "10": 118,
+    "11": 196,
+    "12": 250,
+    "13": 103,
+    "14": 146,
+    "15": 13,
+    "16": 169,
+    "17": 170,
+    "18": 124,
+    "19": 28,
+    "20": 204,
+    "21": 40,
+    "22": 163,
+    "23": 160,
+    "24": 241,
+    "25": 251,
+    "26": 181,
+    "27": 60,
+    "28": 83,
+    "29": 248,
+    "30": 121,
+    "31": 146
+  },
+  "seedAsAddr": "ARPFaUY7U1uNHqccgQDTJZPBE5EBx5vnF1wW6Rp1wTGu",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Aqua"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra"
+    }
+  ],
+  "planet": "Phoenix"
+}

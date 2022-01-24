@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 1122",
+  "symbol": "SOLands",
+  "description": "SOLands 1122",
+  "image": "https://s.solands.xyz/2/1122.png",
+  "external_url": "https://solands.xyz/#/view/v2/GxpbFanwMfEu764PjSKCeZiZHD95Vog2oUqpNh82mEgm",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1122.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 237,
+    "1": 44,
+    "2": 15,
+    "3": 39,
+    "4": 45,
+    "5": 235,
+    "6": 50,
+    "7": 145,
+    "8": 161,
+    "9": 81,
+    "10": 202,
+    "11": 31,
+    "12": 221,
+    "13": 22,
+    "14": 201,
+    "15": 97,
+    "16": 55,
+    "17": 182,
+    "18": 30,
+    "19": 97,
+    "20": 15,
+    "21": 4,
+    "22": 39,
+    "23": 160,
+    "24": 210,
+    "25": 84,
+    "26": 189,
+    "27": 39,
+    "28": 0,
+    "29": 4,
+    "30": 168,
+    "31": 166
+  },
+  "seedAsAddr": "GxpbFanwMfEu764PjSKCeZiZHD95Vog2oUqpNh82mEgm",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Crater"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra"
+    }
+  ],
+  "planet": "Phoenix"
+}

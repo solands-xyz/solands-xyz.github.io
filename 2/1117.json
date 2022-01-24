@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 1117",
+  "symbol": "SOLands",
+  "description": "SOLands 1117",
+  "image": "https://s.solands.xyz/2/1117.png",
+  "external_url": "https://solands.xyz/#/view/v2/As3onjo6CgrYSVjsYAzKDnQtWi54hWKBSvWeQsGfkPiy",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1117.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 146,
+    "1": 139,
+    "2": 101,
+    "3": 118,
+    "4": 77,
+    "5": 133,
+    "6": 160,
+    "7": 183,
+    "8": 244,
+    "9": 65,
+    "10": 186,
+    "11": 104,
+    "12": 116,
+    "13": 87,
+    "14": 1,
+    "15": 27,
+    "16": 85,
+    "17": 92,
+    "18": 58,
+    "19": 46,
+    "20": 212,
+    "21": 238,
+    "22": 238,
+    "23": 236,
+    "24": 131,
+    "25": 204,
+    "26": 236,
+    "27": 100,
+    "28": 123,
+    "29": 132,
+    "30": 225,
+    "31": 18
+  },
+  "seedAsAddr": "As3onjo6CgrYSVjsYAzKDnQtWi54hWKBSvWeQsGfkPiy",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Galactic Proximal Overdrive"
+    }
+  ],
+  "planet": "Phoenix"
+}

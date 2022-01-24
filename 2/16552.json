@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 16552",
+  "symbol": "SOLands",
+  "description": "SOLands 16552",
+  "image": "https://s.solands.xyz/2/16552.png",
+  "external_url": "https://solands.xyz/#/view/v2/H3gxywF94PRBPWRyAQSnJriG95ie8BWkeQPjpGaDZHJE",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16552.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 238,
+    "1": 107,
+    "2": 87,
+    "3": 91,
+    "4": 67,
+    "5": 78,
+    "6": 161,
+    "7": 147,
+    "8": 61,
+    "9": 38,
+    "10": 0,
+    "11": 8,
+    "12": 7,
+    "13": 176,
+    "14": 186,
+    "15": 12,
+    "16": 138,
+    "17": 60,
+    "18": 134,
+    "19": 45,
+    "20": 123,
+    "21": 231,
+    "22": 192,
+    "23": 7,
+    "24": 240,
+    "25": 58,
+    "26": 55,
+    "27": 47,
+    "28": 148,
+    "29": 208,
+    "30": 230,
+    "31": 199
+  },
+  "seedAsAddr": "H3gxywF94PRBPWRyAQSnJriG95ie8BWkeQPjpGaDZHJE",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Rainbow"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Purple Haze"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 8715",
+  "symbol": "SOLands",
+  "description": "SOLands 8715",
+  "image": "https://s.solands.xyz/2/8715.png",
+  "external_url": "https://solands.xyz/#/view/v2/G9tRvaH8Vw51AchBVTP8rbU2dxab1UcoqUgFfBy6CzhM",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8715.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 225,
+    "1": 38,
+    "2": 26,
+    "3": 37,
+    "4": 153,
+    "5": 146,
+    "6": 192,
+    "7": 234,
+    "8": 122,
+    "9": 24,
+    "10": 225,
+    "11": 47,
+    "12": 34,
+    "13": 224,
+    "14": 103,
+    "15": 20,
+    "16": 168,
+    "17": 53,
+    "18": 180,
+    "19": 87,
+    "20": 6,
+    "21": 156,
+    "22": 0,
+    "23": 26,
+    "24": 56,
+    "25": 190,
+    "26": 46,
+    "27": 144,
+    "28": 6,
+    "29": 173,
+    "30": 79,
+    "31": 176
+  },
+  "seedAsAddr": "G9tRvaH8Vw51AchBVTP8rbU2dxab1UcoqUgFfBy6CzhM",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Dashed"
+    },
+    {
+      "trait_type": "Inception",
+      "value": "Incepted"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Aqua"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Sulfur"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Monochrome"
+    }
+  ],
+  "planet": "Hydra"
+}

@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 16583",
+  "symbol": "SOLands",
+  "description": "SOLands 16583",
+  "image": "https://s.solands.xyz/2/16583.png",
+  "external_url": "https://solands.xyz/#/view/v2/Ai9cXJnnwnw3dhcukmj3M6R9caVsb5kywYeJyaB1LRe5",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16583.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 144,
+    "1": 67,
+    "2": 187,
+    "3": 208,
+    "4": 55,
+    "5": 116,
+    "6": 25,
+    "7": 209,
+    "8": 107,
+    "9": 180,
+    "10": 127,
+    "11": 122,
+    "12": 80,
+    "13": 28,
+    "14": 77,
+    "15": 21,
+    "16": 40,
+    "17": 44,
+    "18": 17,
+    "19": 35,
+    "20": 19,
+    "21": 246,
+    "22": 68,
+    "23": 15,
+    "24": 242,
+    "25": 189,
+    "26": 18,
+    "27": 3,
+    "28": 18,
+    "29": 121,
+    "30": 38,
+    "31": 62
+  },
+  "seedAsAddr": "Ai9cXJnnwnw3dhcukmj3M6R9caVsb5kywYeJyaB1LRe5",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Lyra"
+}

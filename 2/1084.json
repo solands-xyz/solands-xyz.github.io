@@ -1,0 +1,109 @@
+{
+  "name": "SOLands 1084",
+  "symbol": "SOLands",
+  "description": "SOLands 1084",
+  "image": "https://s.solands.xyz/2/1084.png",
+  "external_url": "https://solands.xyz/#/view/v2/FW4cwEFS4bwraZsXRAo2id7p9wCoo1SH8u2Y7XumSpqD",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1084.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 215,
+    "1": 117,
+    "2": 141,
+    "3": 151,
+    "4": 99,
+    "5": 128,
+    "6": 237,
+    "7": 122,
+    "8": 242,
+    "9": 185,
+    "10": 104,
+    "11": 182,
+    "12": 41,
+    "13": 48,
+    "14": 65,
+    "15": 203,
+    "16": 131,
+    "17": 52,
+    "18": 62,
+    "19": 170,
+    "20": 3,
+    "21": 241,
+    "22": 230,
+    "23": 196,
+    "24": 54,
+    "25": 247,
+    "26": 230,
+    "27": 180,
+    "28": 128,
+    "29": 224,
+    "30": 1,
+    "31": 48
+  },
+  "seedAsAddr": "FW4cwEFS4bwraZsXRAo2id7p9wCoo1SH8u2Y7XumSpqD",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Aerial"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra"
+    }
+  ],
+  "planet": "Phoenix"
+}

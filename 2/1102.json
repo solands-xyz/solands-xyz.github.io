@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 1102",
+  "symbol": "SOLands",
+  "description": "SOLands 1102",
+  "image": "https://s.solands.xyz/2/1102.png",
+  "external_url": "https://solands.xyz/#/view/v2/5D2VEY5jFtvVKSDZ25Cyz8ctJbNqq1m6hyR9BQhnbBpG",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1102.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 62,
+    "1": 131,
+    "2": 102,
+    "3": 5,
+    "4": 179,
+    "5": 131,
+    "6": 114,
+    "7": 85,
+    "8": 140,
+    "9": 3,
+    "10": 36,
+    "11": 116,
+    "12": 109,
+    "13": 82,
+    "14": 207,
+    "15": 134,
+    "16": 178,
+    "17": 173,
+    "18": 136,
+    "19": 52,
+    "20": 47,
+    "21": 66,
+    "22": 12,
+    "23": 2,
+    "24": 145,
+    "25": 101,
+    "26": 215,
+    "27": 188,
+    "28": 13,
+    "29": 16,
+    "30": 20,
+    "31": 253
+  },
+  "seedAsAddr": "5D2VEY5jFtvVKSDZ25Cyz8ctJbNqq1m6hyR9BQhnbBpG",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Watermelon"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra"
+    }
+  ],
+  "planet": "Phoenix"
+}

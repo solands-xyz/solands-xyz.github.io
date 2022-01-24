@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 16360",
+  "symbol": "SOLands",
+  "description": "SOLands 16360",
+  "image": "https://s.solands.xyz/2/16360.png",
+  "external_url": "https://solands.xyz/#/view/v2/7CBSdJZf1DX9obSkp6csMWu2fv8o2XBd9d1nFRXNckVu",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16360.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 92,
+    "1": 3,
+    "2": 81,
+    "3": 43,
+    "4": 99,
+    "5": 36,
+    "6": 150,
+    "7": 228,
+    "8": 172,
+    "9": 208,
+    "10": 134,
+    "11": 186,
+    "12": 206,
+    "13": 138,
+    "14": 31,
+    "15": 195,
+    "16": 22,
+    "17": 222,
+    "18": 104,
+    "19": 235,
+    "20": 103,
+    "21": 96,
+    "22": 203,
+    "23": 77,
+    "24": 233,
+    "25": 64,
+    "26": 244,
+    "27": 38,
+    "28": 179,
+    "29": 156,
+    "30": 240,
+    "31": 32
+  },
+  "seedAsAddr": "7CBSdJZf1DX9obSkp6csMWu2fv8o2XBd9d1nFRXNckVu",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Hydra, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

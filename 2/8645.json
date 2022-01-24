@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8645",
+  "symbol": "SOLands",
+  "description": "SOLands 8645",
+  "image": "https://s.solands.xyz/2/8645.png",
+  "external_url": "https://solands.xyz/#/view/v2/8ERmUP95DkQWzcgyFowiBVSjixQEnGj1E6rgkccz2JDU",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8645.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 107,
+    "1": 114,
+    "2": 92,
+    "3": 228,
+    "4": 228,
+    "5": 76,
+    "6": 180,
+    "7": 192,
+    "8": 168,
+    "9": 49,
+    "10": 187,
+    "11": 190,
+    "12": 104,
+    "13": 248,
+    "14": 140,
+    "15": 5,
+    "16": 78,
+    "17": 152,
+    "18": 99,
+    "19": 224,
+    "20": 175,
+    "21": 228,
+    "22": 0,
+    "23": 102,
+    "24": 207,
+    "25": 188,
+    "26": 116,
+    "27": 80,
+    "28": 163,
+    "29": 37,
+    "30": 53,
+    "31": 15
+  },
+  "seedAsAddr": "8ERmUP95DkQWzcgyFowiBVSjixQEnGj1E6rgkccz2JDU",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Inception",
+      "value": "Incepted"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    }
+  ],
+  "planet": "Hydra"
+}

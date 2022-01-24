@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 8775",
+  "symbol": "SOLands",
+  "description": "SOLands 8775",
+  "image": "https://s.solands.xyz/2/8775.png",
+  "external_url": "https://solands.xyz/#/view/v2/ns4kzxikRh2FvDpnNb6rcheuUNjhrGe3kut2Vyt8oUw",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8775.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 11,
+    "1": 191,
+    "2": 190,
+    "3": 175,
+    "4": 75,
+    "5": 101,
+    "6": 84,
+    "7": 9,
+    "8": 15,
+    "9": 5,
+    "10": 80,
+    "11": 201,
+    "12": 76,
+    "13": 9,
+    "14": 99,
+    "15": 112,
+    "16": 3,
+    "17": 171,
+    "18": 170,
+    "19": 118,
+    "20": 93,
+    "21": 183,
+    "22": 16,
+    "23": 5,
+    "24": 188,
+    "25": 60,
+    "26": 121,
+    "27": 152,
+    "28": 154,
+    "29": 35,
+    "30": 239,
+    "31": 148
+  },
+  "seedAsAddr": "ns4kzxikRh2FvDpnNb6rcheuUNjhrGe3kut2Vyt8oUw",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Light Fog"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Hydra"
+}

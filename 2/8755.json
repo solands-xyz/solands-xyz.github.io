@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 8755",
+  "symbol": "SOLands",
+  "description": "SOLands 8755",
+  "image": "https://s.solands.xyz/2/8755.png",
+  "external_url": "https://solands.xyz/#/view/v2/GbxcMiC6M8kNTocaDmW1t6RK6vqKAoAFA626LoPZh9TT",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8755.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 231,
+    "1": 211,
+    "2": 237,
+    "3": 236,
+    "4": 33,
+    "5": 140,
+    "6": 161,
+    "7": 97,
+    "8": 0,
+    "9": 46,
+    "10": 46,
+    "11": 27,
+    "12": 7,
+    "13": 31,
+    "14": 27,
+    "15": 23,
+    "16": 53,
+    "17": 218,
+    "18": 164,
+    "19": 75,
+    "20": 99,
+    "21": 84,
+    "22": 47,
+    "23": 209,
+    "24": 216,
+    "25": 24,
+    "26": 39,
+    "27": 196,
+    "28": 49,
+    "29": 197,
+    "30": 5,
+    "31": 30
+  },
+  "seedAsAddr": "GbxcMiC6M8kNTocaDmW1t6RK6vqKAoAFA626LoPZh9TT",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Purple Haze"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Scanner",
+      "value": "Aerial"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Lyra"
+    }
+  ],
+  "planet": "Hydra"
+}

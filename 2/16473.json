@@ -1,0 +1,109 @@
+{
+  "name": "SOLands 16473",
+  "symbol": "SOLands",
+  "description": "SOLands 16473",
+  "image": "https://s.solands.xyz/2/16473.png",
+  "external_url": "https://solands.xyz/#/view/v2/FRVU3Km3zWge1NkZMi8LCmGL4pPLVaQV2v4pBNX6WgF8",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16473.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 214,
+    "1": 73,
+    "2": 190,
+    "3": 68,
+    "4": 93,
+    "5": 3,
+    "6": 126,
+    "7": 164,
+    "8": 227,
+    "9": 189,
+    "10": 122,
+    "11": 80,
+    "12": 51,
+    "13": 8,
+    "14": 211,
+    "15": 228,
+    "16": 27,
+    "17": 62,
+    "18": 4,
+    "19": 106,
+    "20": 67,
+    "21": 48,
+    "22": 208,
+    "23": 22,
+    "24": 135,
+    "25": 76,
+    "26": 203,
+    "27": 166,
+    "28": 11,
+    "29": 11,
+    "30": 73,
+    "31": 135
+  },
+  "seedAsAddr": "FRVU3Km3zWge1NkZMi8LCmGL4pPLVaQV2v4pBNX6WgF8",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 1012",
+  "symbol": "SOLands",
+  "description": "SOLands 1012",
+  "image": "https://s.solands.xyz/2/1012.png",
+  "external_url": "https://solands.xyz/#/view/v2/HzC3dTjieCaKWD6832sV1EvARqap6zvjynz9xDbZLCjg",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1012.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 252,
+    "1": 97,
+    "2": 149,
+    "3": 255,
+    "4": 22,
+    "5": 55,
+    "6": 242,
+    "7": 136,
+    "8": 188,
+    "9": 127,
+    "10": 116,
+    "11": 206,
+    "12": 83,
+    "13": 182,
+    "14": 136,
+    "15": 158,
+    "16": 215,
+    "17": 76,
+    "18": 44,
+    "19": 244,
+    "20": 12,
+    "21": 168,
+    "22": 174,
+    "23": 110,
+    "24": 114,
+    "25": 165,
+    "26": 21,
+    "27": 86,
+    "28": 146,
+    "29": 131,
+    "30": 158,
+    "31": 239
+  },
+  "seedAsAddr": "HzC3dTjieCaKWD6832sV1EvARqap6zvjynz9xDbZLCjg",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Candy"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Monochrome"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Hydra"
+    }
+  ],
+  "planet": "Phoenix"
+}

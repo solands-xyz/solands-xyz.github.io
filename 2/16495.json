@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16495",
+  "symbol": "SOLands",
+  "description": "SOLands 16495",
+  "image": "https://s.solands.xyz/2/16495.png",
+  "external_url": "https://solands.xyz/#/view/v2/6oiXu6Cc1T8zHytU3DevedscUHnf6o9U1Y4Km9ku9M5K",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16495.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 86,
+    "1": 66,
+    "2": 28,
+    "3": 240,
+    "4": 250,
+    "5": 8,
+    "6": 55,
+    "7": 16,
+    "8": 150,
+    "9": 223,
+    "10": 181,
+    "11": 67,
+    "12": 46,
+    "13": 221,
+    "14": 107,
+    "15": 131,
+    "16": 236,
+    "17": 233,
+    "18": 204,
+    "19": 18,
+    "20": 3,
+    "21": 90,
+    "22": 10,
+    "23": 111,
+    "24": 100,
+    "25": 171,
+    "26": 234,
+    "27": 125,
+    "28": 234,
+    "29": 233,
+    "30": 206,
+    "31": 42
+  },
+  "seedAsAddr": "6oiXu6Cc1T8zHytU3DevedscUHnf6o9U1Y4Km9ku9M5K",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Cosmic"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    }
+  ],
+  "planet": "Lyra"
+}

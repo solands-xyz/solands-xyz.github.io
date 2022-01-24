@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 1020",
+  "symbol": "SOLands",
+  "description": "SOLands 1020",
+  "image": "https://s.solands.xyz/2/1020.png",
+  "external_url": "https://solands.xyz/#/view/v2/F4TFCTVwaZGi1vvLSTaFbsShNYPSR4ewMLBECBzCinLu",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1020.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 208,
+    "1": 230,
+    "2": 8,
+    "3": 210,
+    "4": 249,
+    "5": 98,
+    "6": 237,
+    "7": 73,
+    "8": 130,
+    "9": 255,
+    "10": 13,
+    "11": 106,
+    "12": 208,
+    "13": 249,
+    "14": 192,
+    "15": 157,
+    "16": 182,
+    "17": 82,
+    "18": 27,
+    "19": 223,
+    "20": 205,
+    "21": 235,
+    "22": 88,
+    "23": 229,
+    "24": 224,
+    "25": 245,
+    "26": 106,
+    "27": 204,
+    "28": 191,
+    "29": 252,
+    "30": 19,
+    "31": 142
+  },
+  "seedAsAddr": "F4TFCTVwaZGi1vvLSTaFbsShNYPSR4ewMLBECBzCinLu",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Watermelon"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Lava"
+    }
+  ],
+  "planet": "Phoenix"
+}

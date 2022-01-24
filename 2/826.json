@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 826",
+  "symbol": "SOLands",
+  "description": "SOLands 826",
+  "image": "https://s.solands.xyz/2/826.png",
+  "external_url": "https://solands.xyz/#/view/v2/8ArBhRwvMBVFafRsxpNXBTnZqhHnb6ZXR1H9Nqb2wUTr",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/826.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 106,
+    "1": 135,
+    "2": 166,
+    "3": 22,
+    "4": 130,
+    "5": 224,
+    "6": 200,
+    "7": 52,
+    "8": 66,
+    "9": 76,
+    "10": 89,
+    "11": 183,
+    "12": 94,
+    "13": 128,
+    "14": 67,
+    "15": 59,
+    "16": 9,
+    "17": 71,
+    "18": 96,
+    "19": 149,
+    "20": 1,
+    "21": 145,
+    "22": 50,
+    "23": 1,
+    "24": 18,
+    "25": 193,
+    "26": 20,
+    "27": 7,
+    "28": 174,
+    "29": 126,
+    "30": 170,
+    "31": 33
+  },
+  "seedAsAddr": "8ArBhRwvMBVFafRsxpNXBTnZqhHnb6ZXR1H9Nqb2wUTr",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Light Fog"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra"
+    }
+  ],
+  "planet": "Phoenix"
+}

@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 16400",
+  "symbol": "SOLands",
+  "description": "SOLands 16400",
+  "image": "https://s.solands.xyz/2/16400.png",
+  "external_url": "https://solands.xyz/#/view/v2/GmhMgmXD5gu5Vuazx8n1kgxXBszUhCnhmos1SdxpfVU3",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16400.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 234,
+    "1": 82,
+    "2": 125,
+    "3": 171,
+    "4": 213,
+    "5": 46,
+    "6": 175,
+    "7": 72,
+    "8": 166,
+    "9": 169,
+    "10": 133,
+    "11": 10,
+    "12": 109,
+    "13": 195,
+    "14": 100,
+    "15": 207,
+    "16": 213,
+    "17": 145,
+    "18": 196,
+    "19": 87,
+    "20": 105,
+    "21": 176,
+    "22": 133,
+    "23": 90,
+    "24": 33,
+    "25": 194,
+    "26": 174,
+    "27": 221,
+    "28": 49,
+    "29": 8,
+    "30": 118,
+    "31": 208
+  },
+  "seedAsAddr": "GmhMgmXD5gu5Vuazx8n1kgxXBszUhCnhmos1SdxpfVU3",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Candy"
+    }
+  ],
+  "planet": "Lyra"
+}

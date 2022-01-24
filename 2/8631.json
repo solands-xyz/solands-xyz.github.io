@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8631",
+  "symbol": "SOLands",
+  "description": "SOLands 8631",
+  "image": "https://s.solands.xyz/2/8631.png",
+  "external_url": "https://solands.xyz/#/view/v2/GWRE2oaGaQKgxtnBFjERWhU4oY2zLMyqyZ8dTjyZRg2G",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8631.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 230,
+    "1": 104,
+    "2": 137,
+    "3": 205,
+    "4": 4,
+    "5": 93,
+    "6": 242,
+    "7": 55,
+    "8": 31,
+    "9": 25,
+    "10": 116,
+    "11": 195,
+    "12": 184,
+    "13": 66,
+    "14": 70,
+    "15": 115,
+    "16": 72,
+    "17": 34,
+    "18": 170,
+    "19": 142,
+    "20": 227,
+    "21": 51,
+    "22": 112,
+    "23": 169,
+    "24": 8,
+    "25": 177,
+    "26": 21,
+    "27": 116,
+    "28": 55,
+    "29": 15,
+    "30": 35,
+    "31": 5
+  },
+  "seedAsAddr": "GWRE2oaGaQKgxtnBFjERWhU4oY2zLMyqyZ8dTjyZRg2G",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Diagonal Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    }
+  ],
+  "planet": "Hydra"
+}

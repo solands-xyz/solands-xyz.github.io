@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 857",
+  "symbol": "SOLands",
+  "description": "SOLands 857",
+  "image": "https://s.solands.xyz/2/857.png",
+  "external_url": "https://solands.xyz/#/view/v2/DdnDhVanoz3TL4HcHrAPqeNUcJYhjFtJQNnmBbH9YWmS",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/857.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 187,
+    "1": 184,
+    "2": 72,
+    "3": 13,
+    "4": 98,
+    "5": 28,
+    "6": 147,
+    "7": 206,
+    "8": 193,
+    "9": 208,
+    "10": 139,
+    "11": 244,
+    "12": 93,
+    "13": 136,
+    "14": 234,
+    "15": 206,
+    "16": 127,
+    "17": 174,
+    "18": 137,
+    "19": 60,
+    "20": 143,
+    "21": 185,
+    "22": 1,
+    "23": 78,
+    "24": 60,
+    "25": 37,
+    "26": 170,
+    "27": 23,
+    "28": 232,
+    "29": 81,
+    "30": 235,
+    "31": 253
+  },
+  "seedAsAddr": "DdnDhVanoz3TL4HcHrAPqeNUcJYhjFtJQNnmBbH9YWmS",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Inception",
+      "value": "Incepted"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Alone"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    }
+  ],
+  "planet": "Phoenix"
+}

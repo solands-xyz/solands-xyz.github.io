@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8585",
+  "symbol": "SOLands",
+  "description": "SOLands 8585",
+  "image": "https://s.solands.xyz/2/8585.png",
+  "external_url": "https://solands.xyz/#/view/v2/9CryKTjRHsrZXpZy7UfSGUFaxZmQftWPAxdshphQm3xz",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8585.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 121,
+    "1": 231,
+    "2": 98,
+    "3": 255,
+    "4": 44,
+    "5": 166,
+    "6": 101,
+    "7": 115,
+    "8": 39,
+    "9": 3,
+    "10": 213,
+    "11": 199,
+    "12": 27,
+    "13": 224,
+    "14": 224,
+    "15": 248,
+    "16": 208,
+    "17": 78,
+    "18": 193,
+    "19": 100,
+    "20": 35,
+    "21": 96,
+    "22": 240,
+    "23": 225,
+    "24": 42,
+    "25": 229,
+    "26": 173,
+    "27": 163,
+    "28": 28,
+    "29": 239,
+    "30": 59,
+    "31": 7
+  },
+  "seedAsAddr": "9CryKTjRHsrZXpZy7UfSGUFaxZmQftWPAxdshphQm3xz",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Candy"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Sulfur"
+    }
+  ],
+  "planet": "Hydra"
+}

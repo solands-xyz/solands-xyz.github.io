@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 8580",
+  "symbol": "SOLands",
+  "description": "SOLands 8580",
+  "image": "https://s.solands.xyz/2/8580.png",
+  "external_url": "https://solands.xyz/#/view/v2/3UJAFJAmC5mVUBM1bS1ARqz1AzrgPYapzeU4WQeR878e",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8580.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 36,
+    "1": 181,
+    "2": 117,
+    "3": 58,
+    "4": 32,
+    "5": 34,
+    "6": 73,
+    "7": 67,
+    "8": 27,
+    "9": 91,
+    "10": 208,
+    "11": 17,
+    "12": 126,
+    "13": 74,
+    "14": 190,
+    "15": 100,
+    "16": 241,
+    "17": 221,
+    "18": 62,
+    "19": 199,
+    "20": 136,
+    "21": 18,
+    "22": 141,
+    "23": 32,
+    "24": 2,
+    "25": 133,
+    "26": 119,
+    "27": 34,
+    "28": 77,
+    "29": 235,
+    "30": 142,
+    "31": 139
+  },
+  "seedAsAddr": "3UJAFJAmC5mVUBM1bS1ARqz1AzrgPYapzeU4WQeR878e",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Diagonal"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Cosmic"
+    }
+  ],
+  "planet": "Hydra"
+}

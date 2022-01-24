@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 8698",
+  "symbol": "SOLands",
+  "description": "SOLands 8698",
+  "image": "https://s.solands.xyz/2/8698.png",
+  "external_url": "https://solands.xyz/#/view/v2/84F3aTicGW6b3U1ZTypMMwpbSrXkg9fEZ7Fcs99zRYdC",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8698.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 104,
+    "1": 214,
+    "2": 110,
+    "3": 85,
+    "4": 238,
+    "5": 25,
+    "6": 121,
+    "7": 226,
+    "8": 229,
+    "9": 199,
+    "10": 57,
+    "11": 141,
+    "12": 17,
+    "13": 108,
+    "14": 172,
+    "15": 69,
+    "16": 127,
+    "17": 181,
+    "18": 226,
+    "19": 191,
+    "20": 152,
+    "21": 120,
+    "22": 239,
+    "23": 253,
+    "24": 7,
+    "25": 19,
+    "26": 51,
+    "27": 81,
+    "28": 52,
+    "29": 89,
+    "30": 94,
+    "31": 223
+  },
+  "seedAsAddr": "84F3aTicGW6b3U1ZTypMMwpbSrXkg9fEZ7Fcs99zRYdC",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Diagonal"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Mist"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Lyra, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Hydra"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8621",
+  "symbol": "SOLands",
+  "description": "SOLands 8621",
+  "image": "https://s.solands.xyz/2/8621.png",
+  "external_url": "https://solands.xyz/#/view/v2/BQDJhsDUG7BM93WQ8vKJdGb7tLyAigwSyqU5cXJ1UABE",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8621.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 154,
+    "1": 135,
+    "2": 36,
+    "3": 55,
+    "4": 2,
+    "5": 148,
+    "6": 159,
+    "7": 163,
+    "8": 234,
+    "9": 198,
+    "10": 237,
+    "11": 115,
+    "12": 31,
+    "13": 145,
+    "14": 62,
+    "15": 102,
+    "16": 117,
+    "17": 110,
+    "18": 38,
+    "19": 167,
+    "20": 9,
+    "21": 198,
+    "22": 133,
+    "23": 34,
+    "24": 70,
+    "25": 127,
+    "26": 219,
+    "27": 5,
+    "28": 230,
+    "29": 117,
+    "30": 167,
+    "31": 109
+  },
+  "seedAsAddr": "BQDJhsDUG7BM93WQ8vKJdGb7tLyAigwSyqU5cXJ1UABE",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Sulfur"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Monochrome"
+    }
+  ],
+  "planet": "Hydra"
+}

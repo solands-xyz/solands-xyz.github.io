@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 16485",
+  "symbol": "SOLands",
+  "description": "SOLands 16485",
+  "image": "https://s.solands.xyz/2/16485.png",
+  "external_url": "https://solands.xyz/#/view/v2/7zuUr3fNnhJEhevJHJ2orTb98BHRbXFGJc6tmsBrJWA7",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16485.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 103,
+    "1": 251,
+    "2": 145,
+    "3": 46,
+    "4": 32,
+    "5": 192,
+    "6": 30,
+    "7": 20,
+    "8": 175,
+    "9": 208,
+    "10": 60,
+    "11": 5,
+    "12": 220,
+    "13": 238,
+    "14": 134,
+    "15": 47,
+    "16": 174,
+    "17": 158,
+    "18": 53,
+    "19": 146,
+    "20": 178,
+    "21": 137,
+    "22": 0,
+    "23": 2,
+    "24": 240,
+    "25": 53,
+    "26": 126,
+    "27": 53,
+    "28": 157,
+    "29": 4,
+    "30": 211,
+    "31": 156
+  },
+  "seedAsAddr": "7zuUr3fNnhJEhevJHJ2orTb98BHRbXFGJc6tmsBrJWA7",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Inception",
+      "value": "Incepted"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Aqua"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    }
+  ],
+  "planet": "Lyra"
+}

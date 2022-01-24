@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8801",
+  "symbol": "SOLands",
+  "description": "SOLands 8801",
+  "image": "https://s.solands.xyz/2/8801.png",
+  "external_url": "https://solands.xyz/#/view/v2/4S1UPbJjv1pVkmpQL6z7YBHXUV8vc6vZG854o4gGdLds",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8801.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 50,
+    "1": 251,
+    "2": 29,
+    "3": 110,
+    "4": 27,
+    "5": 218,
+    "6": 194,
+    "7": 130,
+    "8": 187,
+    "9": 13,
+    "10": 101,
+    "11": 255,
+    "12": 252,
+    "13": 73,
+    "14": 26,
+    "15": 227,
+    "16": 207,
+    "17": 118,
+    "18": 79,
+    "19": 197,
+    "20": 91,
+    "21": 133,
+    "22": 2,
+    "23": 90,
+    "24": 251,
+    "25": 40,
+    "26": 34,
+    "27": 169,
+    "28": 236,
+    "29": 97,
+    "30": 19,
+    "31": 182
+  },
+  "seedAsAddr": "4S1UPbJjv1pVkmpQL6z7YBHXUV8vc6vZG854o4gGdLds",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Inception",
+      "value": "Incepted"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Candy"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Light Fog"
+    }
+  ],
+  "planet": "Hydra"
+}

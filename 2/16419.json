@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16419",
+  "symbol": "SOLands",
+  "description": "SOLands 16419",
+  "image": "https://s.solands.xyz/2/16419.png",
+  "external_url": "https://solands.xyz/#/view/v2/DSrN1sKG1G2te85GQaSy7MuKxzdRxcZobAaUywrLqW7R",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16419.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 184,
+    "1": 235,
+    "2": 147,
+    "3": 215,
+    "4": 77,
+    "5": 103,
+    "6": 115,
+    "7": 194,
+    "8": 97,
+    "9": 14,
+    "10": 161,
+    "11": 197,
+    "12": 2,
+    "13": 237,
+    "14": 119,
+    "15": 101,
+    "16": 212,
+    "17": 60,
+    "18": 215,
+    "19": 19,
+    "20": 111,
+    "21": 232,
+    "22": 214,
+    "23": 215,
+    "24": 207,
+    "25": 30,
+    "26": 8,
+    "27": 221,
+    "28": 52,
+    "29": 107,
+    "30": 200,
+    "31": 88
+  },
+  "seedAsAddr": "DSrN1sKG1G2te85GQaSy7MuKxzdRxcZobAaUywrLqW7R",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Candy"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Purple Haze"
+    }
+  ],
+  "planet": "Lyra"
+}

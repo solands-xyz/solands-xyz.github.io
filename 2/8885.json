@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 8885",
+  "symbol": "SOLands",
+  "description": "SOLands 8885",
+  "image": "https://s.solands.xyz/2/8885.png",
+  "external_url": "https://solands.xyz/#/view/v2/2E4ms31sZ5ReQ25ySPd8VsiUbweLkHU5QZfaMV8oRGP1",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8885.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 18,
+    "1": 52,
+    "2": 129,
+    "3": 15,
+    "4": 214,
+    "5": 86,
+    "6": 137,
+    "7": 225,
+    "8": 142,
+    "9": 252,
+    "10": 144,
+    "11": 29,
+    "12": 29,
+    "13": 92,
+    "14": 233,
+    "15": 60,
+    "16": 22,
+    "17": 13,
+    "18": 25,
+    "19": 91,
+    "20": 14,
+    "21": 167,
+    "22": 53,
+    "23": 167,
+    "24": 205,
+    "25": 117,
+    "26": 68,
+    "27": 72,
+    "28": 90,
+    "29": 121,
+    "30": 228,
+    "31": 24
+  },
+  "seedAsAddr": "2E4ms31sZ5ReQ25ySPd8VsiUbweLkHU5QZfaMV8oRGP1",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Alone"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Sulfur"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Hydra"
+}

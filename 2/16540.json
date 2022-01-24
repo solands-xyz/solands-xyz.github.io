@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 16540",
+  "symbol": "SOLands",
+  "description": "SOLands 16540",
+  "image": "https://s.solands.xyz/2/16540.png",
+  "external_url": "https://solands.xyz/#/view/v2/5JusJep27HYDo7LjADYDFbMVNaqG4tA4iT8Qh9nDGfKY",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16540.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 64,
+    "1": 5,
+    "2": 102,
+    "3": 18,
+    "4": 211,
+    "5": 93,
+    "6": 210,
+    "7": 110,
+    "8": 234,
+    "9": 61,
+    "10": 167,
+    "11": 219,
+    "12": 168,
+    "13": 66,
+    "14": 204,
+    "15": 131,
+    "16": 129,
+    "17": 10,
+    "18": 161,
+    "19": 39,
+    "20": 21,
+    "21": 115,
+    "22": 147,
+    "23": 35,
+    "24": 48,
+    "25": 217,
+    "26": 26,
+    "27": 111,
+    "28": 253,
+    "29": 223,
+    "30": 236,
+    "31": 195
+  },
+  "seedAsAddr": "5JusJep27HYDo7LjADYDFbMVNaqG4tA4iT8Qh9nDGfKY",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    }
+  ],
+  "planet": "Lyra"
+}

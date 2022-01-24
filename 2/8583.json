@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8583",
+  "symbol": "SOLands",
+  "description": "SOLands 8583",
+  "image": "https://s.solands.xyz/2/8583.png",
+  "external_url": "https://solands.xyz/#/view/v2/72CmwX2uCidayza33WuryDDrUWWEY3ZhDEsd3Evrntg6",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8583.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 89,
+    "1": 117,
+    "2": 4,
+    "3": 38,
+    "4": 27,
+    "5": 23,
+    "6": 211,
+    "7": 254,
+    "8": 53,
+    "9": 175,
+    "10": 63,
+    "11": 96,
+    "12": 173,
+    "13": 227,
+    "14": 136,
+    "15": 53,
+    "16": 159,
+    "17": 50,
+    "18": 14,
+    "19": 106,
+    "20": 53,
+    "21": 143,
+    "22": 129,
+    "23": 25,
+    "24": 226,
+    "25": 29,
+    "26": 24,
+    "27": 97,
+    "28": 60,
+    "29": 160,
+    "30": 76,
+    "31": 127
+  },
+  "seedAsAddr": "72CmwX2uCidayza33WuryDDrUWWEY3ZhDEsd3Evrntg6",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Heat"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    }
+  ],
+  "planet": "Hydra"
+}

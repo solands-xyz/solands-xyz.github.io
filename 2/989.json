@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 989",
+  "symbol": "SOLands",
+  "description": "SOLands 989",
+  "image": "https://s.solands.xyz/2/989.png",
+  "external_url": "https://solands.xyz/#/view/v2/FdgHLi389c5Fm8NcVKNi3PS443PP87Vv3wNygTZQDLK2",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/989.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 217,
+    "1": 104,
+    "2": 241,
+    "3": 44,
+    "4": 14,
+    "5": 234,
+    "6": 161,
+    "7": 47,
+    "8": 95,
+    "9": 220,
+    "10": 116,
+    "11": 24,
+    "12": 16,
+    "13": 197,
+    "14": 45,
+    "15": 82,
+    "16": 102,
+    "17": 243,
+    "18": 162,
+    "19": 191,
+    "20": 80,
+    "21": 66,
+    "22": 81,
+    "23": 225,
+    "24": 64,
+    "25": 37,
+    "26": 18,
+    "27": 225,
+    "28": 200,
+    "29": 209,
+    "30": 198,
+    "31": 17
+  },
+  "seedAsAddr": "FdgHLi389c5Fm8NcVKNi3PS443PP87Vv3wNygTZQDLK2",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Mist"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    }
+  ],
+  "planet": "Phoenix"
+}

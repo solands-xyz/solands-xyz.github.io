@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 945",
+  "symbol": "SOLands",
+  "description": "SOLands 945",
+  "image": "https://s.solands.xyz/2/945.png",
+  "external_url": "https://solands.xyz/#/view/v2/71D1MVy6yVpbRMwQyEyoS9nWrjKmbMK5GHLHm9eP94Nq",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/945.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 89,
+    "1": 51,
+    "2": 178,
+    "3": 103,
+    "4": 125,
+    "5": 46,
+    "6": 242,
+    "7": 187,
+    "8": 220,
+    "9": 244,
+    "10": 55,
+    "11": 215,
+    "12": 58,
+    "13": 239,
+    "14": 39,
+    "15": 30,
+    "16": 70,
+    "17": 24,
+    "18": 62,
+    "19": 89,
+    "20": 1,
+    "21": 61,
+    "22": 128,
+    "23": 170,
+    "24": 190,
+    "25": 43,
+    "26": 222,
+    "27": 10,
+    "28": 10,
+    "29": 104,
+    "30": 83,
+    "31": 30
+  },
+  "seedAsAddr": "71D1MVy6yVpbRMwQyEyoS9nWrjKmbMK5GHLHm9eP94Nq",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Lyra"
+    }
+  ],
+  "planet": "Phoenix"
+}

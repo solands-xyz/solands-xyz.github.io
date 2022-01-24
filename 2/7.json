@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 7",
+  "symbol": "SOLands",
+  "description": "SOLands 7",
+  "image": "https://s.solands.xyz/2/7.png",
+  "external_url": "https://solands.xyz/#/view/v2/5vUuFiTfPPszgJB8ukaPjSzdtDFgXszJPYGDvF7wpWij",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/7.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 73,
+    "1": 34,
+    "2": 20,
+    "3": 9,
+    "4": 26,
+    "5": 130,
+    "6": 162,
+    "7": 208,
+    "8": 244,
+    "9": 182,
+    "10": 81,
+    "11": 41,
+    "12": 123,
+    "13": 243,
+    "14": 211,
+    "15": 140,
+    "16": 234,
+    "17": 35,
+    "18": 92,
+    "19": 8,
+    "20": 194,
+    "21": 192,
+    "22": 57,
+    "23": 134,
+    "24": 148,
+    "25": 150,
+    "26": 140,
+    "27": 229,
+    "28": 40,
+    "29": 98,
+    "30": 201,
+    "31": 0
+  },
+  "seedAsAddr": "5vUuFiTfPPszgJB8ukaPjSzdtDFgXszJPYGDvF7wpWij",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Corona Borealis"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay LSD"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Light Fog"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Corona Borealis"
+}

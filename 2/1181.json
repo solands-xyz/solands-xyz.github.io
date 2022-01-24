@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 1181",
+  "symbol": "SOLands",
+  "description": "SOLands 1181",
+  "image": "https://s.solands.xyz/2/1181.png",
+  "external_url": "https://solands.xyz/#/view/v2/FS5Q1eUAK9jjBfG9twZ264LzXM6XuHcyHdzaJwCGV81V",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1181.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 214,
+    "1": 112,
+    "2": 27,
+    "3": 205,
+    "4": 218,
+    "5": 133,
+    "6": 67,
+    "7": 14,
+    "8": 14,
+    "9": 167,
+    "10": 123,
+    "11": 58,
+    "12": 5,
+    "13": 253,
+    "14": 208,
+    "15": 150,
+    "16": 66,
+    "17": 149,
+    "18": 72,
+    "19": 205,
+    "20": 140,
+    "21": 95,
+    "22": 162,
+    "23": 115,
+    "24": 151,
+    "25": 146,
+    "26": 32,
+    "27": 23,
+    "28": 112,
+    "29": 154,
+    "30": 105,
+    "31": 72
+  },
+  "seedAsAddr": "FS5Q1eUAK9jjBfG9twZ264LzXM6XuHcyHdzaJwCGV81V",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Purple Haze"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Heavy Fog"
+    }
+  ],
+  "planet": "Phoenix"
+}

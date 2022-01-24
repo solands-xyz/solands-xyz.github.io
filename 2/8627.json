@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 8627",
+  "symbol": "SOLands",
+  "description": "SOLands 8627",
+  "image": "https://s.solands.xyz/2/8627.png",
+  "external_url": "https://solands.xyz/#/view/v2/GGZbT11gdRMFaAbKopy4doQ9GNRdgkU3ofNu3EiZJ4ec",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8627.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 226,
+    "1": 219,
+    "2": 222,
+    "3": 191,
+    "4": 171,
+    "5": 213,
+    "6": 140,
+    "7": 46,
+    "8": 197,
+    "9": 187,
+    "10": 30,
+    "11": 195,
+    "12": 166,
+    "13": 94,
+    "14": 197,
+    "15": 104,
+    "16": 238,
+    "17": 108,
+    "18": 34,
+    "19": 44,
+    "20": 192,
+    "21": 232,
+    "22": 86,
+    "23": 59,
+    "24": 194,
+    "25": 242,
+    "26": 202,
+    "27": 204,
+    "28": 5,
+    "29": 91,
+    "30": 201,
+    "31": 121
+  },
+  "seedAsAddr": "GGZbT11gdRMFaAbKopy4doQ9GNRdgkU3ofNu3EiZJ4ec",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Crater"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Cosmic"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Lyra, Phoenix"
+    }
+  ],
+  "planet": "Hydra"
+}

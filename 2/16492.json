@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16492",
+  "symbol": "SOLands",
+  "description": "SOLands 16492",
+  "image": "https://s.solands.xyz/2/16492.png",
+  "external_url": "https://solands.xyz/#/view/v2/RtW3ePyrzgC5fxBwXRBuBoHhp98md8V7FKKWJktEriM",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16492.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 6,
+    "1": 96,
+    "2": 43,
+    "3": 234,
+    "4": 51,
+    "5": 227,
+    "6": 187,
+    "7": 254,
+    "8": 69,
+    "9": 15,
+    "10": 223,
+    "11": 165,
+    "12": 0,
+    "13": 52,
+    "14": 107,
+    "15": 251,
+    "16": 107,
+    "17": 251,
+    "18": 213,
+    "19": 140,
+    "20": 6,
+    "21": 234,
+    "22": 29,
+    "23": 62,
+    "24": 184,
+    "25": 251,
+    "26": 191,
+    "27": 16,
+    "28": 251,
+    "29": 130,
+    "30": 134,
+    "31": 26
+  },
+  "seedAsAddr": "RtW3ePyrzgC5fxBwXRBuBoHhp98md8V7FKKWJktEriM",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Purple Haze"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Monochrome"
+    }
+  ],
+  "planet": "Lyra"
+}

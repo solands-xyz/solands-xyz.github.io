@@ -1,0 +1,101 @@
+{
+  "name": "SOLands 791",
+  "symbol": "SOLands",
+  "description": "SOLands 791",
+  "image": "https://s.solands.xyz/2/791.png",
+  "external_url": "https://solands.xyz/#/view/v2/5krdEv9MZNpQFJpYvMwX1xxWVxqbj1b9bV1Vsvnh1BGD",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/791.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 70,
+    "1": 170,
+    "2": 213,
+    "3": 94,
+    "4": 4,
+    "5": 28,
+    "6": 83,
+    "7": 252,
+    "8": 165,
+    "9": 255,
+    "10": 47,
+    "11": 178,
+    "12": 132,
+    "13": 178,
+    "14": 111,
+    "15": 71,
+    "16": 182,
+    "17": 73,
+    "18": 184,
+    "19": 183,
+    "20": 238,
+    "21": 39,
+    "22": 17,
+    "23": 217,
+    "24": 22,
+    "25": 200,
+    "26": 45,
+    "27": 128,
+    "28": 8,
+    "29": 164,
+    "30": 210,
+    "31": 186
+  },
+  "seedAsAddr": "5krdEv9MZNpQFJpYvMwX1xxWVxqbj1b9bV1Vsvnh1BGD",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Watermelon"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Phoenix"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 1056",
+  "symbol": "SOLands",
+  "description": "SOLands 1056",
+  "image": "https://s.solands.xyz/2/1056.png",
+  "external_url": "https://solands.xyz/#/view/v2/YouAy94xLwMS6omaTWVgV48LsXBgD5t6pCn6AwVXkjC",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1056.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 8,
+    "1": 38,
+    "2": 8,
+    "3": 215,
+    "4": 19,
+    "5": 181,
+    "6": 190,
+    "7": 69,
+    "8": 98,
+    "9": 168,
+    "10": 136,
+    "11": 156,
+    "12": 149,
+    "13": 104,
+    "14": 34,
+    "15": 141,
+    "16": 222,
+    "17": 46,
+    "18": 147,
+    "19": 133,
+    "20": 84,
+    "21": 194,
+    "22": 174,
+    "23": 84,
+    "24": 86,
+    "25": 3,
+    "26": 35,
+    "27": 122,
+    "28": 67,
+    "29": 58,
+    "30": 24,
+    "31": 139
+  },
+  "seedAsAddr": "YouAy94xLwMS6omaTWVgV48LsXBgD5t6pCn6AwVXkjC",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Grape"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    }
+  ],
+  "planet": "Phoenix"
+}

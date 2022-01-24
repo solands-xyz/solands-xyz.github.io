@@ -1,0 +1,85 @@
+{
+  "name": "SOLands 16474",
+  "symbol": "SOLands",
+  "description": "SOLands 16474",
+  "image": "https://s.solands.xyz/2/16474.png",
+  "external_url": "https://solands.xyz/#/view/v2/5KYkVhbHTAeuqze2hgP7scLsYfaV5SMzSefXm2PPmDhd",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16474.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 64,
+    "1": 47,
+    "2": 26,
+    "3": 29,
+    "4": 38,
+    "5": 230,
+    "6": 178,
+    "7": 199,
+    "8": 129,
+    "9": 197,
+    "10": 187,
+    "11": 21,
+    "12": 106,
+    "13": 25,
+    "14": 153,
+    "15": 235,
+    "16": 183,
+    "17": 172,
+    "18": 197,
+    "19": 222,
+    "20": 61,
+    "21": 127,
+    "22": 199,
+    "23": 94,
+    "24": 189,
+    "25": 237,
+    "26": 220,
+    "27": 21,
+    "28": 188,
+    "29": 214,
+    "30": 123,
+    "31": 36
+  },
+  "seedAsAddr": "5KYkVhbHTAeuqze2hgP7scLsYfaV5SMzSefXm2PPmDhd",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Watermelon"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16375",
+  "symbol": "SOLands",
+  "description": "SOLands 16375",
+  "image": "https://s.solands.xyz/2/16375.png",
+  "external_url": "https://solands.xyz/#/view/v2/J3g8qGXkPHYxbe77YQjtPWDcTAU5iUfCeqBfqj2RTiSC",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16375.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 253,
+    "1": 70,
+    "2": 22,
+    "3": 233,
+    "4": 31,
+    "5": 40,
+    "6": 19,
+    "7": 239,
+    "8": 252,
+    "9": 138,
+    "10": 46,
+    "11": 204,
+    "12": 64,
+    "13": 146,
+    "14": 40,
+    "15": 244,
+    "16": 197,
+    "17": 47,
+    "18": 249,
+    "19": 137,
+    "20": 17,
+    "21": 22,
+    "22": 122,
+    "23": 133,
+    "24": 49,
+    "25": 88,
+    "26": 110,
+    "27": 201,
+    "28": 109,
+    "29": 126,
+    "30": 24,
+    "31": 41
+  },
+  "seedAsAddr": "J3g8qGXkPHYxbe77YQjtPWDcTAU5iUfCeqBfqj2RTiSC",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Cherry"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    }
+  ],
+  "planet": "Lyra"
+}

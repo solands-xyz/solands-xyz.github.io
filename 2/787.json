@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 787",
+  "symbol": "SOLands",
+  "description": "SOLands 787",
+  "image": "https://s.solands.xyz/2/787.png",
+  "external_url": "https://solands.xyz/#/view/v2/s8LyzfVu8gJdnuarVFe5vyYpWJtf859r6zuFZUt7o2M",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/787.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 12,
+    "1": 215,
+    "2": 88,
+    "3": 77,
+    "4": 231,
+    "5": 73,
+    "6": 243,
+    "7": 88,
+    "8": 131,
+    "9": 122,
+    "10": 143,
+    "11": 143,
+    "12": 218,
+    "13": 188,
+    "14": 206,
+    "15": 95,
+    "16": 214,
+    "17": 107,
+    "18": 15,
+    "19": 136,
+    "20": 174,
+    "21": 75,
+    "22": 116,
+    "23": 149,
+    "24": 85,
+    "25": 230,
+    "26": 160,
+    "27": 167,
+    "28": 10,
+    "29": 62,
+    "30": 240,
+    "31": 198
+  },
+  "seedAsAddr": "s8LyzfVu8gJdnuarVFe5vyYpWJtf859r6zuFZUt7o2M",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Candy"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Phoenix"
+}

@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 8662",
+  "symbol": "SOLands",
+  "description": "SOLands 8662",
+  "image": "https://s.solands.xyz/2/8662.png",
+  "external_url": "https://solands.xyz/#/view/v2/A5ZnpAPoc9JnMmd98skf8YNH5fmuSnHmNayfYYbHe2P6",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8662.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 134,
+    "1": 228,
+    "2": 148,
+    "3": 202,
+    "4": 60,
+    "5": 118,
+    "6": 206,
+    "7": 144,
+    "8": 248,
+    "9": 40,
+    "10": 52,
+    "11": 18,
+    "12": 217,
+    "13": 147,
+    "14": 227,
+    "15": 170,
+    "16": 98,
+    "17": 144,
+    "18": 155,
+    "19": 106,
+    "20": 202,
+    "21": 104,
+    "22": 146,
+    "23": 165,
+    "24": 148,
+    "25": 89,
+    "26": 239,
+    "27": 30,
+    "28": 2,
+    "29": 110,
+    "30": 243,
+    "31": 109
+  },
+  "seedAsAddr": "A5ZnpAPoc9JnMmd98skf8YNH5fmuSnHmNayfYYbHe2P6",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Crater"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Phoenix"
+    },
+    {
+      "trait_type": "Suns",
+      "value": "Sol"
+    }
+  ],
+  "planet": "Hydra"
+}

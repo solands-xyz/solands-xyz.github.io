@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 8836",
+  "symbol": "SOLands",
+  "description": "SOLands 8836",
+  "image": "https://s.solands.xyz/2/8836.png",
+  "external_url": "https://solands.xyz/#/view/v2/3Bo4DWrsiYRhEKNwWmqWDFggWZe49gP1fW3HfGKy19yW",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8836.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 32,
+    "1": 123,
+    "2": 65,
+    "3": 202,
+    "4": 199,
+    "5": 102,
+    "6": 191,
+    "7": 153,
+    "8": 91,
+    "9": 124,
+    "10": 145,
+    "11": 214,
+    "12": 215,
+    "13": 242,
+    "14": 193,
+    "15": 49,
+    "16": 136,
+    "17": 63,
+    "18": 100,
+    "19": 87,
+    "20": 132,
+    "21": 43,
+    "22": 119,
+    "23": 138,
+    "24": 247,
+    "25": 141,
+    "26": 144,
+    "27": 248,
+    "28": 251,
+    "29": 126,
+    "30": 171,
+    "31": 109
+  },
+  "seedAsAddr": "3Bo4DWrsiYRhEKNwWmqWDFggWZe49gP1fW3HfGKy19yW",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis"
+    }
+  ],
+  "planet": "Hydra"
+}

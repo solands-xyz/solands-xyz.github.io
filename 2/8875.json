@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 8875",
+  "symbol": "SOLands",
+  "description": "SOLands 8875",
+  "image": "https://s.solands.xyz/2/8875.png",
+  "external_url": "https://solands.xyz/#/view/v2/7gndFf9YhGv2oh1JHDFiBReXPUp2HAifaXV2wNUdR3K",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8875.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 1,
+    "1": 182,
+    "2": 120,
+    "3": 196,
+    "4": 160,
+    "5": 146,
+    "6": 13,
+    "7": 213,
+    "8": 162,
+    "9": 180,
+    "10": 21,
+    "11": 166,
+    "12": 18,
+    "13": 31,
+    "14": 202,
+    "15": 177,
+    "16": 179,
+    "17": 134,
+    "18": 73,
+    "19": 22,
+    "20": 15,
+    "21": 110,
+    "22": 14,
+    "23": 230,
+    "24": 15,
+    "25": 49,
+    "26": 7,
+    "27": 138,
+    "28": 199,
+    "29": 238,
+    "30": 120,
+    "31": 86
+  },
+  "seedAsAddr": "7gndFf9YhGv2oh1JHDFiBReXPUp2HAifaXV2wNUdR3K",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Watermelon"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Mist"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Derezzed"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Phoenix"
+    }
+  ],
+  "planet": "Hydra"
+}

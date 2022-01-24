@@ -1,0 +1,97 @@
+{
+  "name": "SOLands 8674",
+  "symbol": "SOLands",
+  "description": "SOLands 8674",
+  "image": "https://s.solands.xyz/2/8674.png",
+  "external_url": "https://solands.xyz/#/view/v2/3xKbKibd3yN3MnVURDwYSQ1oKL5o66UuyqLwYsYWd47E",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8674.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 43,
+    "1": 227,
+    "2": 87,
+    "3": 19,
+    "4": 8,
+    "5": 99,
+    "6": 229,
+    "7": 77,
+    "8": 57,
+    "9": 89,
+    "10": 19,
+    "11": 140,
+    "12": 217,
+    "13": 194,
+    "14": 245,
+    "15": 162,
+    "16": 187,
+    "17": 197,
+    "18": 221,
+    "19": 128,
+    "20": 64,
+    "21": 249,
+    "22": 107,
+    "23": 149,
+    "24": 33,
+    "25": 213,
+    "26": 243,
+    "27": 70,
+    "28": 145,
+    "29": 149,
+    "30": 241,
+    "31": 165
+  },
+  "seedAsAddr": "3xKbKibd3yN3MnVURDwYSQ1oKL5o66UuyqLwYsYWd47E",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Volcanic"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Alone"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Phoenix"
+    }
+  ],
+  "planet": "Hydra"
+}

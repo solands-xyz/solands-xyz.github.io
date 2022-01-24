@@ -1,0 +1,105 @@
+{
+  "name": "SOLands 8703",
+  "symbol": "SOLands",
+  "description": "SOLands 8703",
+  "image": "https://s.solands.xyz/2/8703.png",
+  "external_url": "https://solands.xyz/#/view/v2/3CovH2AuW2USDLYRMBWbMM5xJZrgjYS9Zhc6TFeffXCX",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8703.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 32,
+    "1": 189,
+    "2": 208,
+    "3": 80,
+    "4": 192,
+    "5": 183,
+    "6": 32,
+    "7": 147,
+    "8": 132,
+    "9": 105,
+    "10": 38,
+    "11": 254,
+    "12": 95,
+    "13": 136,
+    "14": 198,
+    "15": 77,
+    "16": 49,
+    "17": 91,
+    "18": 29,
+    "19": 101,
+    "20": 1,
+    "21": 196,
+    "22": 113,
+    "23": 160,
+    "24": 203,
+    "25": 138,
+    "26": 138,
+    "27": 252,
+    "28": 7,
+    "29": 211,
+    "30": 218,
+    "31": 196
+  },
+  "seedAsAddr": "3CovH2AuW2USDLYRMBWbMM5xJZrgjYS9Zhc6TFeffXCX",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Surface Liquid",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Probe Glitch",
+      "value": "Phase Shift"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Corona Borealis, Lyra"
+    }
+  ],
+  "planet": "Hydra"
+}

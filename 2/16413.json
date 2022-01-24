@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16413",
+  "symbol": "SOLands",
+  "description": "SOLands 16413",
+  "image": "https://s.solands.xyz/2/16413.png",
+  "external_url": "https://solands.xyz/#/view/v2/F1P5fwSw9EYPHp8sLTKC78p6ZRAEFfptfKKz8ajTQ3tu",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16413.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 208,
+    "1": 28,
+    "2": 149,
+    "3": 97,
+    "4": 75,
+    "5": 72,
+    "6": 235,
+    "7": 30,
+    "8": 36,
+    "9": 36,
+    "10": 197,
+    "11": 10,
+    "12": 59,
+    "13": 152,
+    "14": 145,
+    "15": 196,
+    "16": 197,
+    "17": 194,
+    "18": 99,
+    "19": 229,
+    "20": 163,
+    "21": 35,
+    "22": 216,
+    "23": 233,
+    "24": 251,
+    "25": 124,
+    "26": 12,
+    "27": 237,
+    "28": 220,
+    "29": 148,
+    "30": 140,
+    "31": 66
+  },
+  "seedAsAddr": "F1P5fwSw9EYPHp8sLTKC78p6ZRAEFfptfKKz8ajTQ3tu",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late Cherry"
+    },
+    {
+      "trait_type": "Visible Planets",
+      "value": "Hydra"
+    }
+  ],
+  "planet": "Lyra"
+}

@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 1098",
+  "symbol": "SOLands",
+  "description": "SOLands 1098",
+  "image": "https://s.solands.xyz/2/1098.png",
+  "external_url": "https://solands.xyz/#/view/v2/FybHfs9D8NSpRzju7xxnoWDLdEj4L2amSiQqNUZNTcHw",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/1098.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 222,
+    "1": 130,
+    "2": 233,
+    "3": 67,
+    "4": 40,
+    "5": 220,
+    "6": 74,
+    "7": 98,
+    "8": 136,
+    "9": 117,
+    "10": 235,
+    "11": 89,
+    "12": 106,
+    "13": 160,
+    "14": 169,
+    "15": 63,
+    "16": 40,
+    "17": 231,
+    "18": 194,
+    "19": 181,
+    "20": 102,
+    "21": 137,
+    "22": 68,
+    "23": 213,
+    "24": 12,
+    "25": 129,
+    "26": 48,
+    "27": 215,
+    "28": 8,
+    "29": 142,
+    "30": 149,
+    "31": 98
+  },
+  "seedAsAddr": "FybHfs9D8NSpRzju7xxnoWDLdEj4L2amSiQqNUZNTcHw",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Phoenix"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Impact",
+      "value": "Collision"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Diagonal Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal Late"
+    }
+  ],
+  "planet": "Phoenix"
+}

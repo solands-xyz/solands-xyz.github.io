@@ -1,0 +1,93 @@
+{
+  "name": "SOLands 16401",
+  "symbol": "SOLands",
+  "description": "SOLands 16401",
+  "image": "https://s.solands.xyz/2/16401.png",
+  "external_url": "https://solands.xyz/#/view/v2/4csxn49KXorHsffB6cgHYHv9nhW8JQHm2A9mCoPo6CS7",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/16401.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 53,
+    "1": 196,
+    "2": 2,
+    "3": 250,
+    "4": 205,
+    "5": 9,
+    "6": 86,
+    "7": 167,
+    "8": 29,
+    "9": 46,
+    "10": 161,
+    "11": 40,
+    "12": 14,
+    "13": 219,
+    "14": 181,
+    "15": 189,
+    "16": 64,
+    "17": 255,
+    "18": 19,
+    "19": 0,
+    "20": 32,
+    "21": 251,
+    "22": 71,
+    "23": 241,
+    "24": 212,
+    "25": 139,
+    "26": 13,
+    "27": 247,
+    "28": 251,
+    "29": 194,
+    "30": 200,
+    "31": 164
+  },
+  "seedAsAddr": "4csxn49KXorHsffB6cgHYHv9nhW8JQHm2A9mCoPo6CS7",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Lyra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "High"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Rocky"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude Short Dashed"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Nested"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Mist"
+    }
+  ],
+  "planet": "Lyra"
+}

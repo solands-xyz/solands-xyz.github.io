@@ -1,0 +1,89 @@
+{
+  "name": "SOLands 8880",
+  "symbol": "SOLands",
+  "description": "SOLands 8880",
+  "image": "https://s.solands.xyz/2/8880.png",
+  "external_url": "https://solands.xyz/#/view/v2/Bg1kz6D3j5Zw8U3Vt6asirGdJ1zD2mcb69ejubUCr8Pd",
+  "seller_fee_basis_points": 177,
+  "collection": {
+    "name": "SOLands Explorations v2",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/2/8880.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 158,
+    "1": 147,
+    "2": 96,
+    "3": 215,
+    "4": 100,
+    "5": 254,
+    "6": 210,
+    "7": 70,
+    "8": 165,
+    "9": 47,
+    "10": 191,
+    "11": 60,
+    "12": 144,
+    "13": 55,
+    "14": 201,
+    "15": 79,
+    "16": 198,
+    "17": 207,
+    "18": 194,
+    "19": 173,
+    "20": 22,
+    "21": 13,
+    "22": 42,
+    "23": 113,
+    "24": 29,
+    "25": 128,
+    "26": 52,
+    "27": 87,
+    "28": 164,
+    "29": 213,
+    "30": 132,
+    "31": 212
+  },
+  "seedAsAddr": "Bg1kz6D3j5Zw8U3Vt6asirGdJ1zD2mcb69ejubUCr8Pd",
+  "attributes": [
+    {
+      "trait_type": "Planet",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Formation"
+    },
+    {
+      "trait_type": "Grid",
+      "value": "Latitude & Longitude"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Single"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Decay Cherry"
+    }
+  ],
+  "planet": "Hydra"
+}
