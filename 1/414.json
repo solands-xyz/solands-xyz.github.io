@@ -1,1 +1,88 @@
-{"name": "SOLands 415", "symbol": "SOLands", "description": "SOLands 415", "image": "https://s.solands.xyz/1/414.png", "external_url": "https://solands.xyz", "seller_fee_basis_points": 177, "attributes": [{"trait_type": "Radiance", "value": "Normal"}, {"trait_type": "Fields", "value": "SOL green"}, {"trait_type": "Terrain", "value": "Glassy"}, {"trait_type": "Moons", "value": "Double"}, {"trait_type": "Planet", "value": "Neighbor"}, {"trait_type": "Starfield", "value": "Normal late"}], "collection": {"name": "SOLands Explorations v1", "family": "SOLands"}, "properties": {"files": [], "category": "image", "creators": [{"address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB", "share": 100}]}, "seed": {"0": 106, "1": 173, "2": 166, "3": 240, "4": 227, "5": 81, "6": 38, "7": 107, "8": 111, "9": 117, "10": 141, "11": 146, "12": 229, "13": 158, "14": 27, "15": 215, "16": 164, "17": 45, "18": 207, "19": 255, "20": 181, "21": 40, "22": 205, "23": 255, "24": 211, "25": 115, "26": 157, "27": 50, "28": 28, "29": 211, "30": 146, "31": 22}, "seedAsAddr": "8BRo6cXnJJ1MLvCnAvduej6btzsrycC4a3u6aNDE9Pau"}
+{
+  "name": "SOLands 415",
+  "symbol": "SOLands",
+  "description": "SOLands 415",
+  "image": "https://s.solands.xyz/1/414.png",
+  "external_url": "https://solands.xyz/#/view/v1/8BRo6cXnJJ1MLvCnAvduej6btzsrycC4a3u6aNDE9Pau",
+  "seller_fee_basis_points": 177,
+  "attributes": [
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Fields",
+      "value": "SOL green"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Moons",
+      "value": "Double"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "Neighbor"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Normal late"
+    }
+  ],
+  "collection": {
+    "name": "SOLands Explorations v1",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/1/414.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 106,
+    "1": 173,
+    "2": 166,
+    "3": 240,
+    "4": 227,
+    "5": 81,
+    "6": 38,
+    "7": 107,
+    "8": 111,
+    "9": 117,
+    "10": 141,
+    "11": 146,
+    "12": 229,
+    "13": 158,
+    "14": 27,
+    "15": 215,
+    "16": 164,
+    "17": 45,
+    "18": 207,
+    "19": 255,
+    "20": 181,
+    "21": 40,
+    "22": 205,
+    "23": 255,
+    "24": 211,
+    "25": 115,
+    "26": 157,
+    "27": 50,
+    "28": 28,
+    "29": 211,
+    "30": 146,
+    "31": 22
+  },
+  "seedAsAddr": "8BRo6cXnJJ1MLvCnAvduej6btzsrycC4a3u6aNDE9Pau"
+}

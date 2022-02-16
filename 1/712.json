@@ -1,1 +1,80 @@
-{"name": "SOLands 713", "symbol": "SOLands", "description": "SOLands 713", "image": "https://s.solands.xyz/1/712.png", "external_url": "https://solands.xyz", "seller_fee_basis_points": 177, "attributes": [{"trait_type": "Radiance", "value": "Normal"}, {"trait_type": "Fields", "value": "SOL green"}, {"trait_type": "Terrain", "value": "Glassy"}, {"trait_type": "Starfield", "value": "Alone"}], "collection": {"name": "SOLands Explorations v1", "family": "SOLands"}, "properties": {"files": [], "category": "image", "creators": [{"address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB", "share": 100}]}, "seed": {"0": 243, "1": 163, "2": 31, "3": 176, "4": 38, "5": 41, "6": 46, "7": 22, "8": 244, "9": 45, "10": 232, "11": 66, "12": 7, "13": 89, "14": 34, "15": 97, "16": 11, "17": 20, "18": 7, "19": 165, "20": 46, "21": 228, "22": 3, "23": 116, "24": 134, "25": 22, "26": 230, "27": 203, "28": 56, "29": 33, "30": 47, "31": 109}, "seedAsAddr": "HQ4LcDevN5qPFwBCRnqRXqs6dPPSQ7bFbE58L5C7orex"}
+{
+  "name": "SOLands 713",
+  "symbol": "SOLands",
+  "description": "SOLands 713",
+  "image": "https://s.solands.xyz/1/712.png",
+  "external_url": "https://solands.xyz/#/view/v1/HQ4LcDevN5qPFwBCRnqRXqs6dPPSQ7bFbE58L5C7orex",
+  "seller_fee_basis_points": 177,
+  "attributes": [
+    {
+      "trait_type": "Radiance",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Fields",
+      "value": "SOL green"
+    },
+    {
+      "trait_type": "Terrain",
+      "value": "Glassy"
+    },
+    {
+      "trait_type": "Starfield",
+      "value": "Alone"
+    }
+  ],
+  "collection": {
+    "name": "SOLands Explorations v1",
+    "family": "SOLands"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://s.solands.xyz/1/712.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1andsUnGZ2YuKkh4MgP1H7xdwsbHYJFoaFmgE85EiPB",
+        "share": 100
+      }
+    ]
+  },
+  "seed": {
+    "0": 243,
+    "1": 163,
+    "2": 31,
+    "3": 176,
+    "4": 38,
+    "5": 41,
+    "6": 46,
+    "7": 22,
+    "8": 244,
+    "9": 45,
+    "10": 232,
+    "11": 66,
+    "12": 7,
+    "13": 89,
+    "14": 34,
+    "15": 97,
+    "16": 11,
+    "17": 20,
+    "18": 7,
+    "19": 165,
+    "20": 46,
+    "21": 228,
+    "22": 3,
+    "23": 116,
+    "24": 134,
+    "25": 22,
+    "26": 230,
+    "27": 203,
+    "28": 56,
+    "29": 33,
+    "30": 47,
+    "31": 109
+  },
+  "seedAsAddr": "HQ4LcDevN5qPFwBCRnqRXqs6dPPSQ7bFbE58L5C7orex"
+}
