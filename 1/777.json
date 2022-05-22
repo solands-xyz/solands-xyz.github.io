@@ -49,5 +49,6 @@
       }
     ]
   },
-  "external_url": "https://solands.xyz/#/view/v1/BtUpxbbhq57xTpMsXUwq61zV1JjwvtX4AaMB3zcq1F3V"
+  "external_url": "https://solands.xyz/view/v1/BtUpxbbhq57xTpMsXUwq61zV1JjwvtX4AaMB3zcq1F3V",
+  "seller_fee_basis_points": 477
 }

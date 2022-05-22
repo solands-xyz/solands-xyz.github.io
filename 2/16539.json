@@ -3,8 +3,8 @@
   "symbol": "SOLands",
   "description": "SOLands 16539",
   "image": "https://s.solands.xyz/2/16539.png",
-  "external_url": "https://solands.xyz/#/view/v2/D2o9SPMiZYuraAa9CeATHTDU1EZwMk1AQ8Rg1EJnePhB",
-  "seller_fee_basis_points": 177,
+  "external_url": "https://solands.xyz/view/v2/D2o9SPMiZYuraAa9CeATHTDU1EZwMk1AQ8Rg1EJnePhB",
+  "seller_fee_basis_points": 477,
   "collection": {
     "name": "SOLands Explorations v2",
     "family": "SOLands"

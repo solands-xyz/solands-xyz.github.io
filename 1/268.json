@@ -3,8 +3,8 @@
   "symbol": "SOLands",
   "description": "SOLands 269",
   "image": "https://s.solands.xyz/1/268.png",
-  "external_url": "https://solands.xyz/#/view/v1/77ZhmSjWu4WByqydQtsLChstiiCVDgsorEdASVb4MiBZ",
-  "seller_fee_basis_points": 177,
+  "external_url": "https://solands.xyz/view/v1/CJDxnCqhW5wFi9MQT2N8VR9NeUjPAHet763j5LHwfFyd",
+  "seller_fee_basis_points": 477,
   "attributes": [
     {
       "trait_type": "Radiance",
@@ -84,5 +84,6 @@
     "30": 81,
     "31": 56
   },
-  "seedAsAddr": "77ZhmSjWu4WByqydQtsLChstiiCVDgsorEdASVb4MiBZ"
+  "seedAsAddr": "77ZhmSjWu4WByqydQtsLChstiiCVDgsorEdASVb4MiBZ",
+  "mint_addr": "CJDxnCqhW5wFi9MQT2N8VR9NeUjPAHet763j5LHwfFyd"
 }
